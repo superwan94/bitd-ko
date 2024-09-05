@@ -3,7 +3,6 @@
   "title": "Blades in the Dark - Korean",
   "description": "어둠 속의 칼날 시스템 한국어 번역",
   "version": "#{VERSION}#",
-  "author": "superwan94",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
