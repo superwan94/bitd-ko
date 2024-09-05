@@ -1,0 +1,80 @@
+{
+	"label": "플레이북",
+        "mapping": {
+        "description": "system.description",
+	"experience_clues": "system.experience_clues"
+    },
+
+	"entries": [
+		{
+			"id": "Cutter",
+			"name": "칼잡이",
+			"description" : "위험하고 압도적인 싸움꾼",
+			"experience_clues": "- 난관에 위압이나 폭력으로 임한 경우."
+			
+		},
+		{
+			"id": "Ghost",
+			"name": "유령",
+			"description" : "복수를 갈구하는 몸 없는 영",
+			"experience_clues": "- 벌을 받아 마땅하다고 여기는 자에게 보복을 가했을 경우, 분노를 표현하거나 자기의 혈통 또는 출신에 관련된 원한을 갚았을 경우."
+			
+		},
+		{
+			"id": "Hound",
+			"name": "사냥개",
+			"description" : "치명적인 사수이자 추적자",
+			"experience_clues": "- 난관에 폭력이나 추적으로 임한 경우."
+			
+		},
+		{
+			"id": "Hall",
+			"name": "영틀",
+			"description" : "스파크 기술로 만든 틀에 깃든 영",
+			"experience_clues": "- 어려움이나 위험에도 불구하고 자기 역할을 완수할 경우, 이전 자기가 갖고 있던 인간성을 억제하거나 무시하는 경우."
+			
+		},
+		{
+			"id": "Leech",
+			"name": "거머리",
+			"description" : "기술자이자 파괴자",
+			"experience_clues": "- 난관에 기술적인 솜씨나 파괴로 임한 경우."
+			
+		},
+		{
+			"id": "Lurk",
+			"name": "족제비",
+			"description" : "은밀한 침입자이자 도둑",
+			"experience_clues": "- 난관에 은밀행동이나 회피로 임한 경우."
+			
+		},
+		{
+			"id": "Slide",
+			"name": "할리퀸",
+			"description" : "사람을 은근히 조종하는 스파이",
+			"experience_clues": "- 난관에 기만이나 영향력으로 임한 경우."
+			
+		},
+		{
+			"id": "Spider",
+			"name": "거미",
+			"description" : "교활한 책략가",
+			"experience_clues": "- 난관에 계산이나 음모로 임한 경우."
+			
+		},
+		{
+			"id": "Vampire",
+			"name": "뱀파이어",
+			"description" : "언데드 몸을 움직이는 영",
+			"experience_clues": "- 자기의 우월함을 드러내거나 무자비하게 살해하는 경우."
+			
+		},
+		{
+			"id": "Whisper",
+			"name": "유령사",
+			"description" : "마도의 전문가이자 영매",
+			"experience_clues": "- 난관에 지식이나 마도의 힘으로 임한 경우."
+			
+		}
+	]
+}

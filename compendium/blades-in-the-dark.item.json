@@ -1,0 +1,305 @@
+{
+	"label": "장비",
+	"mapping": {
+        "description": "system.description",
+	"class":"system.class"
+	
+    },
+	"entries": [
+		{
+			"id": "(C) Fine hand weapon",
+			"name": "(C) 고급 소형 무기",
+			"description": "잘 만든 한손 근접 무기입니다.",
+			"class": "칼잡이"
+		},
+		{
+			"id": "(C) Fine heavy weapon",
+			"name": "(C) 고급 대형 무기",
+			"description": "잘 만든 양손 근접 무기입니다. 대형 무기는 더 길고 타격력도 강합니다.",
+			"class": "칼잡이"
+		},
+		{
+			"id": "(C) Manacles & chain",
+			"name": "(C) 족쇄와 쇠사슬",
+			"description": "죄수가 찰 만한 묵직한 족쇄나 수갑과 쇠사슬입니다.",
+			"class": "칼잡이"
+		},
+		{
+			"id": "(C) Rage essence vial",
+			"name": "(C) 분노 에센스 한 병",
+			"description": "1회용. 몇 분간 근력, 고통 저항력, 비이성적 호전성을 강화합니다.\n동시에 “피아를 구별 못함” “적들이 전부 패배할 때까지 멈추지 않음”의 두 가지 대가를 받습니다. 각기 통상적으로 저항할 수 있습니다.",
+			"class": "칼잡이"
+		},
+		{
+			"id": "(C) Scary weapon or tool",
+			"name": "(C) 무시무시한 무기나 도구",
+			"description": "무섭게 생긴 소형 무기나 도구. 전투에서 피해를 더 주지는 않지만, 위협할 때는 효과가 증가합니다.",
+			"class": "칼잡이"
+		},
+		{
+			"id": "(H) A trained hunting pet",
+			"name": "(H) 훈련된 사냥용 동물",
+			"description": "주인의 명령에 따를 뿐만아니라 그 행동마저 예측하는 동물 친구입니다. 부하 (전문가: 사냥꾼).",
+			"class": "사냥개"
+		},
+		{
+			"id": "(H) Electroplasmic ammunition",
+			"name": "(H) 엘렉트로플라즘 탄약",
+			"description": "유령에게 큰 위력을 발휘하지만 실체가 있는 목표에는 덜 효과적인 엘렉트로플라즘 탄약이 있습니다 (탄띠 하나 분량). 이 탄양이 발하는 전기는 사람에게 쇼크를 줄 수는 있지만 실제 피해는 거의 없습니다. 인간을 기절시키려면 몇 발을 명중시켜야 합니다. 이 탄약은 유령장과 아주 민감하게 반응합니다. 4칸짜리 “감령관들의 시선” 시계를 만들고, 이 탄약이 사용된 작전마다 칸을 채우세요.",
+			"class": "사냥개"
+		},
+		{
+			"id": "(H) Fine long rifle",
+			"name": "(H) 고급 라이플",
+			"description": "잘 만든 사냥총. 장거리에서 매우 정확하고 근거리에서는 거추장스럽습니다. 도스크볼에서 라이플은 보통 시민의 소지가 불법이지만, 당신은 군대가 발급한 소지 면허가 있습니다 (진짜? 위조?).",
+			"class": "사냥개"
+		},
+		{
+			"id": "(H) Fine pair of pistols",
+			"name": "(H) 고급 권총 한 쌍",
+			"description": "짝이 맞는 권총 한 쌍. 정확도가 높고, 각각 총열이 2개라 한 번 장전하면 두 발씩 쏠 수 있습니다.",
+			"class": "사냥개"
+		},
+		{
+			"id": "(H) Spyglass",
+			"name": "(H) 망원경",
+			"description": "놋쇠 금속통에 렌즈를 달아 멀리 보게 해 주는 물건. 접이식입니다. 라이플에 장착할 수도 있습니다.",
+			"class": "사냥개"
+		},
+		{
+			"id": "(Le) Bandolier",
+			"name": "(Le) 도구띠",
+			"description": "몸에 대각선으로 겹치는 띠. 특수 패딩 주머니가 있어 스파크 기술 폭탄과 연금물을 합계 셋까지 넣을 수 있습니다. 도구띠에서 실제로 뽑아 쓸 때 연금물 목록 (또는 자기 고유의 제법)에서 하나를 고르면 됩니다. 공방이나 공급자를 이용 못할 상황만 아니면 막간에 자동으로 도구띠가 채워집니다.",
+			"class": "거머리"
+		},
+		{
+			"id": "(Le) Blowgun & darts, syringes",
+			"name": "(Le) 바람총과 바늘, 주사기",
+			"description": "연금물을 넣는 작은 튜브와 바늘. 빈 주사기.",
+			"class": "거머리"
+		},
+		{
+			"id": "(Le) Fine tinkering tools",
+			"name": "(Le) 고급 땜질 공구",
+			"description": "잘 만든 기계공의 도구 한 벌입니다. 보석세공사의 루페, 측정 도구 등.",
+			"class": "거머리"
+		},
+		{
+			"id": "(Le) Fine wrecking tools",
+			"name": "(Le) 고급 파괴 공구",
+			"description": "파괴에 사용하는 전문 공구들입니다. 강력한 소형 드릴. 망치와 강철못. 쇠지레. 엘렉트로플라즘 배터리, 클램프, 전선. 산이 든 병. 절단 토치와 연료 탱크.",
+			"class": "거머리"
+		},
+		{
+			"id": "(Le) Gadgets",
+			"name": "(Le) 장치",
+			"description": "도구와 재료로 땜질을 하면 장치를 만들 수 있습니다. 하중은 작전에 가지고 가는 장치 하나마다 따집니다.",
+			"class": "거머리"
+		},
+		{
+			"id": "(Lu) Dark-sight goggles",
+			"name": "(Lu) 야시 고글",
+			"description": "빛이 전혀 없어도 대낮처럼 볼 수 있게 해 주는 마도 장치.",
+			"class": "족제비"
+		},
+		{
+			"id": "(Lu) Fine lockpicks",
+			"name": "(Lu) 고급 곁쇠",
+			"description": "자물쇠를 딸 때 사용하는 잘 만든 도구입니다.",
+			"class": "족제비"
+		},
+		{
+			"id": "(Lu) Fine shadow cloak",
+			"name": "(Lu) 고급 그림자 망토",
+			"description": "귀한 이루비아 그림자 비단으로 만들어 주변의 어둠처럼 색이 변하는 후드 달린 망토. 두르고 있으면 몰래 다닐 때 효과 단계가 높아집니다.",
+			"class": "족제비"
+		},
+		{
+			"id": "(Lu) Light climbing gear",
+			"name": "(Lu) 경량 등반 장비",
+			"description": "표준 등반 장비보다 더 작고 가벼운 특제 등반 장비.",
+			"class": "족제비"
+		},
+		{
+			"id": "(Lu) Silence potion vial",
+			"name": "(Lu) 침묵의 물약",
+			"description": "금색 액체가 든 병. 마신 사람으로부터 10발짝 내의 모든 소리가 없어집니다.",
+			"class": "족제비"
+		},
+		{
+			"id": "(Sl) A cane-sword",
+			"name": "(Sl) Une canne-épée",
+			"description": "Une fine lame dissimulée dans un fourreau semblable à la canne d’un noble. Capable de donner le change lors d’une inspection rapide.",
+			"class": "할리퀸"
+		},
+		{
+			"id": "(Sl) Fine clothes & jewelry",
+			"name": "(Sl) Vêtements et bijoux de qualité de rechange",
+			"description": "Une tenue de rechange qui semble si raffinée qu’elle peut passer pour celle d’un noble. Si la tenue est portée, la charge est de 0.",
+			"class": "할리퀸"
+		},
+		{
+			"id": "(Sl) Fine disguise kit",
+			"name": "(Sl) Kit de déguisement de qualité",
+			"description": "Un kit de maquillage de théâtre équipé d’une impressionnante variété de prothèses faciales permettant de tromper n’importe quel observateur. La qualité de ce kit peut augmenter l’effet de vos actions de supercherie  lorsque vous l’utilisez",
+			"class": "할리퀸"
+		},
+		{
+			"id": "(Sl) Fine loaded dice, trick cards",
+			"name": "(Sl) Dés pipés de qualité, cartes marquées",
+			"description": "Un matériel de joueur subtilement altéré pour favoriser certains résultats. La qualité de ce kit peut augmenter l’effet de vos actions de supercherie lorsque vous l’utilisez.",
+			"class": "할리퀸"
+		},
+		{
+			"id": "(Sl) Trance powder",
+			"name": "(Sl) Poudre de trance",
+			"description": "Une dose de cette drogue populaire, qui provoque un état de conscience altéré. La victime de cette poudre n’est pas complètement évanouie, elle entre plutôt dans une sorte d’état d’obéissance indolente, proche de l’hypnose.",
+			"class": "할리퀸"
+		},
+		{
+			"id": "(Sp) Blueprints",
+			"name": "(Ag) Plan d'architecture",
+			"description": "Un folio regroupant d’utiles dessins d’architecture et des plans de la ville. Vous êtes libre de préciser quels plans vous transportez quand vous choisissez cet objet.",
+			"class": "Araignée"
+		},
+		{
+			"id": "(Sp) Concealed palm pistol",
+			"name": "(Ag) Pistolet de paume dissimulé",
+			"description": "Une petite arme à feu utilisant une faible charge de poudre, que l’on peut facilement escamoter dans une manche ou un manteau. Ce pistolet ne possède qu’une portée extrêmement limitée, ne dépassant pas quelques pas. Mais il est très difficile à détecter, même durant une fouille.",
+			"class": "Araignée"
+		},
+		{
+			"id": "(Sp) Fine bottle of whiskey",
+			"name": "(Ag) Bouteille de whisky de qualité",
+			"description": "Une distillation rare, provenant de votre collection personnelle, son degré d’alcool est aussi élevé que sa capacité à impressionner.",
+			"class": "Araignée"
+		},
+		{
+			"id": "(Sp) Fine cover identity",
+			"name": "(Ag) Fausse identité de qualité",
+			"description": "Des papiers d’identité, quelques rumeurs ou ragots répandus et une ou deux fausses relations suffisent à vous faire passer pour une personne entièrement différente.",
+			"class": "Araignée"
+		},
+		{
+			"id": "(Sp) Vial of slumber essence",
+			"name": "(Ag) Fiole d'essence de sommeil",
+			"description": "Une dose d’essence de sommeil suffisante pour plonger quiconque dans l’inconscience durant une bonne heure. Le sommeil de la victime n’a rien de surnaturel, mais il est profond — cette dernière ne se réveillera pas prématurément sans être violemment secouée.",
+			"class": "Araignée"
+		},
+		{
+			"id": "(W) Demonbane charm",
+			"name": "(H) Charme repousse-démon",
+			"description": "Un colifichet ésotérique que les démons préfèrent éviter.",
+			"class": "Haruspice"
+		},
+		{
+			"id": "(W) Fine lightning hook",
+			"name": "(H) Crochet à éclairs de qualité",
+			"description": "Une longue perche équipée d’une boucle de gros câble à une extrémité, elle-même reliée à un condensateur électroplasmique. Utile pour attraper un esprit et le confiner dans une bouteille spirite. Ce crochet fabriqué sur-mesure est télescopique, ce qui le rend moins encombrant et réduit sa charge, tout en conservant sa portée.",
+			"class": "Haruspice"
+		},
+		{
+			"id": "(W) Fine spirit mask",
+			"name": "(H) Masque spirite de qualité",
+			"description": "Un objet ésotérique qui permet à un utilisateur entraîné de percevoir les énergies surnaturelles dans leurs moindres détails. Il offre également une certaine protection contre la possession fantomatique.",
+			"class": "Haruspice"
+		},
+		{
+			"id": "(W) Ghost key",
+			"name": "(H) Clé fantôme",
+			"description": "Un objet ésotérique capable d’ouvrir des portes fantômes.",
+			"class": "Haruspice"
+		},
+		{
+			"id": "(W) Spirit bottles (2)",
+			"name": "(H) Bouteilles spirites (2)",
+			"description": "Un appareil ésotérique capable de contenir un esprit. Il se présente sous la forme d’un cylindre de cristal cerclé de métal, de la taille d’une miche de pain.",
+			"class": "Haruspice"
+		},
+		{
+			"id": "+ Heavy",
+			"name": "+ Lourd",
+			"description": "L’ajout d’une cotte de maille, de plaques de métal, ou d’un casque de fer."
+		},
+		{
+			"id": "A 2nd Pistol",
+			"name": "Un 2nd Pistolet",
+			"description": "Une arme à feu tirant un coup unique, qui se recharge par le canon. Dévastateur à une vingtaine de pas, mais lent à recharger."
+		},
+		{
+			"id": "A Blade or Two",
+			"name": "Une lame ou deux",
+			"description": "Peut-être que vous maniez un simple couteau de combat. Ou deux sabres. Ou une rapière et un stylet. Ou un lourd hachoir de boucher."
+		},
+		{
+			"id": "A Large Weapon",
+			"name": "Une arme d'hast",
+			"description": "Une arme utilisée à deux mains. Une hache de guerre, une grande épée, un marteau de guerre ou une hallebarde. Un fusil de chasse. Un tromblon. Un arc ou une arbalète."
+		},
+		{
+			"id": "A Pistol",
+			"name": "Un Pistolet",
+			"description": "Une arme à feu tirant un coup unique, qui se recharge par le canon. Dévastateur à une vingtaine de pas, mais lent à recharger."
+		},
+		{
+			"id": "An Unusual Weapon",
+			"name": "Une arme exotique",
+			"description": "Il peut s’agir d’une curiosité ou d’un outil transformé en arme. Un fouet, un fléau, une hachette, une pelle, une chaîne, un éventail-rasoir, des bottes à bouts ferrés."
+		},
+		{
+			"id": "Arcane Implements",
+			"name": "Ingrédients ésotériques",
+			"description": "Une fiole de vifargent. Une bourse de sel noir. Une ancre spirite sous la forme d’une petite pierre. Une bouteille spirite. Une fiole d’électroplasme, conçue pour se briser et répandre son contenu à l’impact."
+		},
+		{
+			"id": "Armor",
+			"name": "Armure",
+			"description": "Une épaisse tunique de cuir accompagnée de gants et de bottes renforcés."
+		},
+		{
+			"id": "Burglary Gear",
+			"name": "Equipement de cambrioleur",
+			"description": "Un jeu de crochets. Un petit pied de biche. Des fioles d’huile qui rendent silencieuses les charnières rouillées. Une bobine de fil et des hameçons. Un petit sac de sable fin."
+		},
+		{
+			"id": "Climbing Gear",
+			"name": "Matériel d'escalade",
+			"description": "Une grande longueur de corde. Une petite longueur de corde. Des grappins. Un petit sac de poussière de craie. Un harnais d’alpinisme équipé de mousquetons et d’anneaux. Un jeu de pitons de fer et un petit maillet."
+		},
+		{
+			"id": "Demolition Tools",
+			"name": "Outils de démolition",
+			"description": "Une masse et des pitons d’acier. Une perceuse lourde. Un pied de biche."
+		},
+		{
+			"id": "Documents",
+			"name": "Documents",
+			"description": "Une collection de volumes abrégés abordant toute une variété de sujets, parmi lesquels un registre de la noblesse, des commandants du Guet de la ville et des autres citoyens remarquables. Des pages vierges, un encrier, une plume. Une sélection de cartes intéressantes."
+		},
+		{
+			"id": "Lantern",
+			"name": "Lanterne",
+			"description": "Une simple lanterne à huile, une lampe électroplasmique dernier cri, ou tout autre source de lumière."
+		},
+		{
+			"id": "Spiritbane Charm",
+			"name": "Charme repousse-esprit",
+			"description": "Un petit colifichet ésotérique que les fantômes préfèrent éviter."
+		},
+		{
+			"id": "Subterfuge Supplies",
+			"name": "Fournitures de subterfuge",
+			"description": "Un kit de maquillage de théâtre. Une sélection de documents vierges, prêts à être falsifiés. Des bijoux de pacotille. Une cape réversible et un chapeau remarquable. Un badge officiel falsifié."
+		},
+		{
+			"id": "Throwing Knives",
+			"name": "Couteaux de lancer",
+			"description": "Six petites lames légères."
+		},
+		{
+			"id": "Tinkering Tools",
+			"name": "Outils de bricolage",
+			"description": "Un assortiment d’outils de mécanique de précision : une loupe de joaillier, des pincettes, un petit maillet, des pinces, des tournevis, etc."
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"label": "조직 평판",
+	"entries": [
+		{
+			"id": "Alluring",
+			"name": "매혹적임",
+			"description": ""
+		},
+		{
+			"id": "Ambitious",
+			"name": "야심 많음",
+			"description": ""
+		},
+		{
+			"id": "Brutal",
+			"name": "잔인함",
+			"description": ""
+		},
+		{
+			"id": "Cruel",
+			"name": "잔혹함",
+			"description": ""
+		},
+		{
+			"id": "Daring",
+			"name": "대담함",
+			"description": ""
+		},
+		{
+			"id": "Ferocious",
+			"name": "사나움",
+			"description": ""
+		},
+		{
+			"id": "Honorable",
+			"name": "명예로움",
+			"description": ""
+		},
+		{
+			"id": "Monstrous",
+			"name": "흉포함",
+			"description": ""
+		},
+		{
+			"id": "Professional",
+			"name": "프로다움",
+			"description": ""
+		},
+		{
+			"id": "Radiant",
+			"name": "빛남",
+			"description": ""
+		},
+		{
+			"id": "Savvy",
+			"name": "영리함",
+			"description": ""
+		},
+		{
+			"id": "Serene",
+			"name": "차분함",
+			"description": ""
+		},
+		{
+			"id": "Sinister",
+			"name": "사악함",
+			"description": ""
+		},
+		{
+			"id": "Strange",
+			"name": "괴상함",
+			"description": ""
+		},
+		{
+			"id": "Subtle",
+			"name": "미묘함",
+			"description": ""
+		},
+		{
+			"id": "Transcendent",
+			"name": "초월적임",
+			"description": ""
+		}
+	]
+}

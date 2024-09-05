@@ -1,51 +1,34 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "bitd-ko",
+  "title": "Blades in the Dark - Korean",
+  "description": "어둠 속의 칼날 시스템 한국어 번역",
   "version": "#{VERSION}#",
-  "library": "false",
-  "manifestPlusVersion": "1.2.0",
+  "author": "superwan94",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
-  },
-  "authors": [
-    {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
-    }
-  ],
-  "relationships": {
-    "systems": [],
-    "requires": []
+    "minimum": "11",
+    "verified": "11"
   },
   "esmodules": [
-    "scripts/module.js"
+    "./bitd-ko.js"
   ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
   "languages": [
+   
     {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
+      "lang": "ko",
+      "name": "Korean",
+      "path": "ko.json"
     }
   ],
   "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
-  "license": "LICENSE",
-  "readme": "README.md",
-  "media": [
-    {
-      "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
-    }
-  ]
+  "manifest": "https://github.com/superwan94/bitd-ko/blob/master/module.json",
+  "download": "#{DOWNLOAD}#"
 }
