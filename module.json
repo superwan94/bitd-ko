@@ -29,6 +29,6 @@
     }
   ],
   "url": "#{URL}#",
-  "manifest": "https://github.com/superwan94/bitd-ko/blob/master/module.json",
+  "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#"
 }
