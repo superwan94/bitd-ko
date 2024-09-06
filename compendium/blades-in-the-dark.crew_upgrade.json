@@ -305,12 +305,12 @@
 		},
 		{
 			"id": "Training: Prowess",
-			"name": "Entraînement: 체력",
+			"name": "훈련: 체력",
 			"description": "막간에 체력 훈련을 하면 xp가 1이 아니라 2 증가합니다."
 		},
 		{
 			"id": "Training: Resolve",
-			"name": "Entraînement: 의지",
+			"name": "훈련: 의지",
 			"description": "막간에 의지 훈련을 하면 xp가 1이 아니라 2 증가합니다."
 		},
 		{
