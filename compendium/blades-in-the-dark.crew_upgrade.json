@@ -1,5 +1,5 @@
 {
-	"label": "Améliorations de bande",
+	"label": "조직 업그레이드",
 	"mapping": {
         	"description": "system.description",
 		"class":"system.class"
@@ -8,325 +8,325 @@
 	"entries": [
 		{
 			"id": "(A) Assassin Rigging",
-			"name": "(A) Harnais d'assassin",
-			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’armes.",
-			"class": "Assassins"
+			"name": "(자객단) 자객 멜빵",
+			"description": "무기나 장비 물품을 하중 2어치 공짜로 선택할 수 있습니다.",
+			"class": "자객단"
 		},
 		{
 			"id": "(A) Elite Skulks",
-			"name": "(A) Furteurs d'élite",
-			"description": "Toutes vos cohortes du type Fureteur obtiennent +1 dé à vos jets de qualité relatifs aux actions de Fureteurs.",
-			"class": "Assassins"
+			"name": "(자객단) 정예 생쥐",
+			"description": "생쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "자객단"
 		},
 		{
 			"id": "(A) Elite Thugs",
-			"name": "(A) Gros bras délite",
-			"description": "Toutes vos cohortes du type Gros bras obtiennent +1 dé à vos jets de qualité relatifs aux actions de Gros bras.",
-			"class": "Assassins"
+			"name": "(자객단) 정예 깡패",
+			"description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "자객단"
 		},
 		{
 			"id": "(A) Hardened",
-			"name": "(A) Endurcis",
-			"description": "Chaque PJ dispose d’une case supplémentaire de trauma. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule.",
-			"class": "Assassins"
+			"name": "(자객단) 역전의 용사",
+			"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
+			"class": "자객단"
 		},
 		{
 			"id": "(A) Ironhook Contacts",
-			"name": "(A) Contacts dans la prison de Crochet-de-fer",
-			"description": "Votre rang est augmenté d’un point en prison.",
-			"class": "Assassins"
+			"name": "(자객단) 쇠갈고리 연줄",
+			"description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정을 포함하여, 감옥에서 등급과 관련된 모든 일에 적용됩니다.",
+			"class": "자객단"
 		},
 		{
 			"id": "(B) Bravos Rigging",
-			"name": "(B) Harnais de Bravos",
-			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’armes.",
-			"class": "Bravos"
+			"name": "(건달패) 건달 멜빵",
+			"description": "무기나 갑옷 물품을 하중 2어치 공짜로 선택할 수 있습니다.",
+			"class": "건달패"
 		},
 		{
 			"id": "(B) Elite Rovers",
-			"name": "(B) Nomades d'élite",
-			"description": "Toutes vos cohortes du type Nomade obtiennent +1 dé à vos jets de qualité relatifs aux actions de Nomades.",
-			"class": "Bravos"
+			"name": "(건달패) 정예 떠돌이",
+			"description": "떠돌이 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "건달패"
 		},
 		{
 			"id": "(B) Elite Thugs",
-			"name": "(B) Gros bras d'élite",
-			"description": "Toutes vos cohortes du type Gros bras obtiennent +1 dé à vos jets de qualité relatifs aux actions de Gros bras.",
-			"class": "Bravos"
+			"name": "(건달패) 정예 깡패",
+			"description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "건달패"
 		},
 		{
 			"id": "(B) Hardened",
-			"name": "(B) Endurcis",
-			"description": "Chaque PJ dispose d’une case supplémentaire de trauma. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule.",
-			"class": "Bravos"
+			"name": "(건달패) 역전의 용사",
+			"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
+			"class": "건달패"
 		},
 		{
 			"id": "(B) Ironhook Contacts",
-			"name": "(B) Contacts dans la prison de Crochet-de-fer",
-			"description": "Votre rang est augmenté d’un point en prison.",
-			"class": "Bravos"
+			"name": "(건달패) 쇠갈고리 연줄",
+			"description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
+			"class": "건달패"
 		},
 		{
 			"id": "(C) Cult Rigging",
-			"name": "(Cu) Harnais de cutltistes",
-			"description": "Vous gagnez gratuitement 2 charges de documents ou d’instruments.",
-			"class": "Cultistes"
+			"name": "(교단) 교단 멜빵",
+			"description": "문서나 마도/종교 용품을 하중 2어치 공짜로 선택할 수 있습니다.",
+			"class": "교단"
 		},
 		{
 			"id": "(C) Elite Adepts",
-			"name": "(Cu) Adeptes d'élite",
-			"description": "Toutes vos cohortes du type Adeptes gagnent +1 dé sur leurs jets de qualité pour toutes leurs actions d’Adeptes.",
-			"class": "Cultistes"
+			"name": "(교단) 정예 식자",
+			"description": "식자 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "교단"
 		},
 		{
 			"id": "(C) Elite Thugs",
-			"name": "(Cu) Gros bras d'élite",
-			"description": "Toutes vos cohortes du type Gros bras gagnent +1 dé sur leurs jets de qualité pour toutes leurs actions de Gros bras.",
-			"class": "Cultistes"
+			"name": "(교단) 정예 깡패",
+			"description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "교단"
 		},
 		{
 			"id": "(C) Ordained",
-			"name": "(Cu) Ordonnés",
-			"description": "Chaque PJ gagne +1 case de trauma. Cette amélioration vous demande 3 cases pour être débloquée, et non pas simplement une seule.",
-			"class": "Cultistes"
+			"name": "(교단) 사제의 자격",
+			"description": "각 PC가 트라우마 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다. 이로써 트라우마 4개를 가진 PC를 플레이에 복귀시킬 수도 있습니다.",
+			"class": "교단"
 		},
 		{
 			"id": "(C) Ritual Sanctum in Lair",
-			"name": "(Cu) Sanctuaire rituel dans votre repaire",
-			"description": "Cette amélioration vous accorde un atelier sacré et ésotérique, où vous pourrez vous livrer à des pratiques occultes et accomplir des rituels.",
-			"class": "Cultistes"
+			"name": "(교단) 의식의 성소",
+			"description": "소굴 안에 신성한 마도 공방이 있어서 오컬트 작업과 의식에 쓸 수 있습니다.",
+			"class": "교단"
 		},
 		{
 			"id": "(H) Composed",
-			"name": "(H) Impavides",
-			"description": "chaque PJ dispose d’une case supplémentaire de stress. Pour l’obtenir, il faut y consacrer trois améliorations au lieu d’une seule.",
-			"class": "Colporteurs"
+			"name": "(암상회) 침착",
+			"description": " 각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
+			"class": "암상회"
 		},
 		{
 			"id": "(H) Elite Rooks",
-			"name": "(Cl) Magouilleurs d'élite",
-			"description": "Toutes vos cohortes du type Magouilleurs obtiennent +1 dé à vos jets de qualité relatifs aux actions de Magouilleurs.",
-			"class": "Colporteurs"
+			"name": "(암상회) 정예 박쥐",
+			"description": "박쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "암상회"
 		},
 		{
 			"id": "(H) Elite Thugs",
-			"name": "(Cl) Gros bras d'élite",
-			"description": "Toutes vos cohortes du type Gros bras gagnent +1 dé sur leurs jets de qualité pour toutes leurs actions de Gros bras.",
-			"class": "Colporteurs"
+			"name": "(암상회) 정예 깡패",
+			"description": "깡패 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "암상회"
 		},
 		{
 			"id": "(H) Hawker Rigging",
-			"name": "(Cl) Harnais de colporteur",
-			"description": "L’un des objets que vous portez est dissimulé et n’a aucune charge.",
-			"class": "Colporteurs"
+			"name": "(암상회) 암상인 멜빵",
+			"description": "물건 하나를 숨기고, 하중 0으로 휴대할 수 있습니다.",
+			"class": "암상회"
 		},
 		{
 			"id": "(H) Ironhook Contacts",
-			"name": "(Cl) Contacts dans la prison de Crochet-de-fer",
-			"description": "Votre rang est augmenté d’un point en prison.",
-			"class": "Colporteurs"
+			"name": "(암상회) 쇠갈고리 연줄",
+			"description": "감옥에 있을 때 등급이 +1 높아집니다. 수감 판정을 포함하여, 감옥에서 등급에 관련된 모든 일에 적용됩니다.",
+			"class": "암상회"
 		},
 		{
 			"id": "(Sh) Elite Rooks",
-			"name": "(O) Magouilleurs d'élite",
-			"description": "Toutes vos cohortes du type Magouilleurs obtiennent +1 dé à vos jets de qualité relatifs aux actions de Magouilleurs.",
-			"class": "Ombres"
+			"name": "(그림자들) 정예 박쥐",
+			"description": "박쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "그림자들"
 		},
 		{
 			"id": "(Sh) Elite Skulks",
-			"name": "(O) Fureteurs d'élite",
-			"description": "Toutes vos cohortes du type Fureteurs obtiennent +1 dé à vos jets de qualité relatifs aux actions de Fureteurs.",
-			"class": "Ombres"
+			"name": "(그림자들) 정예 생쥐",
+			"description": "생쥐 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "그림자들"
 		},
 		{
 			"id": "(Sh) Steady",
-			"name": "(O) Stables",
-			"description": "chaque PJ dispose d’une case supplémentaire de stress.",
-			"class": "Ombres"
+			"name": "(그림자들) 침착",
+			"description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
+			"class": "그림자들"
 		},
 		{
 			"id": "(Sh) Thief Rigging",
-			"name": "(O) Harnais de Voleur",
+			"name": "(그림자들) 도둑 멜빵",
  			"description": "Vous gagnez gratuitement 2 charges d’équipements ou d’outils.",
-			"class": "Ombres"
+			"class": "그림자들"
 		},
 		{
 			"id": "(Sh) Underground Maps and Passkeys",
-			"name": "(O) Cartes et passe-partout des souterrains",
-			"description": "vous pouvez facilement passer dans les canaux et les souterrains, ainsi que dans les sous-sols de la ville.",
-			"class": "Ombres"
+			"name": "(그림자들) 지하 지도와 열쇠들",
+			"description": "지저 운하, 터널, 시내 건물들의 지하실을 쉽게 지나다닐 수 있습니다.",
+			"class": "그림자들"
 		},
 		{
 			"id": "(Sm) Barge",
-			"name": "(Cb) Barge",
-			"description": "Vous ajoutez le marqueur mobile à votre repaire. Vous pouvez désormais le déplacer vers un nouveau lieu en guise d’activité de temps mort.",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 바지선",
+			"description": "소굴에 기동성이 추가됩니다. 막간 활동 1회를 써서 새 위치로 옮길 수 있습니다.",
+			"class": "밀수단"
 		},
 		{
 			"id": "(Sm) Camouflage",
-			"name": "(Cb) Camouflage",
-			"description": "À l’arrêt vos véhicules sont parfaitement dissimulés. Ils se fondent dans le décor ou passent pour des véhicules sans intérêt (au choix).",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 위장",
+			"description": "탈것이 움직이지 않으면 완벽히 은닉됩니다. 풍경에 녹아드는 것일 수도, 극히 평범한 민간용 탈것으로 보이는 것일 수도 있습니다 (플레이어들이 선택).",
+			"class": "밀수단"
 		},
 		{
 			"id": "(Sm) Elite Rovers",
-			"name": "(Cb) Nomades d'élite",
-			"description": "Toutes vos cohortes du type Nomade obtiennent +1 dé à vos jets de qualité relatifs aux actions de Nomades.",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 정예 떠돌이",
+			"description": "떠돌이 부하들이 모두 그 유형에 관련된 품질 판정에 +1d를 받습니다.",
+			"class": "밀수단"
 		},
 		{
 			"id": "(Sm) Smuggler Rigging",
-			"name": "(Cb) Harnais de contrebandier",
-			"description": "Deux des objets que vous portez sont parfaitement dissimulés.",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 밀수꾼 멜빵",
+			"description": "하중 2만큼을 숨기고 하중 0으로 휴대할 수 있습니다. 몸을 더듬어도 못 찾는 금수품 한 덩어리와 권총 하나를 하중 0으로 휴대할 수 있습니다.",
+			"class": "밀수단"
 		},
 		{
 			"id": "(Sm) Steady",
-			"name": "(Cb) Stables",
-			"description": "chaque PJ dispose d’une case supplémentaire de stress.",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 침착",
+			"description": "각 PC가 스트레스 칸을 하나 더 받습니다. 이 옵션은 업그레이드 3개가 듭니다.",
+			"class": "밀수단"
 		},
 		{
 			"id": "(Sm) Vehicle 1",
-			"name": "(Cb) Vehicule 1",
-			"description": "Tous les contrebandiers débutent avec un véhicule.",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 탈것 1",
+			"description": "밀수단은 모두 탈것 하나를 갖고 시작합니다.",
+			"class": "밀수단"
 		},
 		{
 			"id": "(Sm) Vehicle 2",
-			"name": "(Cb) Vehicule 2",
-			"description": "Le véhicule gagne un blindage.",
-			"class": "Contrebandiers"
+			"name": "(밀수단) 탈것 2",
+			"description": "2단계 업그레이드. 탈것에 갑옷이 생깁니다.",
+			"class": "밀수단"
 		},
 		{
 			"id": "Boat House 1",
-			"name": "Péniche aménagée 1",
-			"description": "Vous possédez une péniche, un emplacement à quai sur une voie d’eau et une petite cabane pour y stocker du matériel nautique."
+			"name": "배 1",
+			"description": "배 한 척, 운하에 접한 선착장, 배 관련 물품을 저장할 작은 창고가 있습니다."
 		},
 		{
 			"id": "Boat House 2",
-			"name": "Péniche aménagée 2",
-			"description": "Rajoute un blindage et agrandit la soute."
+			"name": "배 2",
+			"description": "2단계 업그레이드. 배에 갑옷이 생기고 화물 적재량도 많아집니다."
 		},
 		{
 			"id": "Carriage House 1",
-			"name": "Roulotte 1",
-			"description": "Vous possédez une roulotte, deux chèvres pour la tracter et une étable. "
+			"name": "수레 1",
+			"description": "수레와 염소 두 마리, 외양간이 있습니다. 도스크볼에는 말이 매우 드물며, 대부분의 수레는 덩치 큰 아코로스 염소가 끕니다."
 		},
 		{
 			"id": "Carriage House 2",
-			"name": "Roulotte 2",
-			"description": "Agrandit la roulotte et y ajoute des plaques de blindage, mais aussi des chèvres de trait plus rapides."
+			"name": "수레 2",
+			"description": "2단계 업그레이드. 수레에 갑옷이 생기고 더 크고 빠른 염소가 생깁니다."
 		},
 		{
 			"id": "Cohort 1",
-			"name": "Cohorte 1",
-			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
+			"name": "부하 1",
+			"description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다."
 		},
 		{
 			"id": "Cohort 2",
-			"name": "Cohorte 2",
-			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
+			"name": "부하 2",
+			"description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다."
 		},
 		{
 			"id": "Cohort 3",
-			"name": "Cohorte 3",
-			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
+			"name": "부하 3",
+			"description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다."
 		},
 		{
 			"id": "Cohort 4",
-			"name": "Cohorte 4",
-			"description": "Une cohorte est un Gang ou un Expert qui travaille pour votre gang."
+			"name": "부하 4",
+			"description": "부하는 하나의 패거리일 수도, 전문가 NPC 한 명일 수도 있습니다."
 		},
 		{
 			"id": "Hidden Lair",
-			"name": "Repaire caché",
-			"description": "Votre repaire est situé dans un lieu secret, maquillé afin de passer pour un endroit ordinaire. Si votre repaire vient à être découvert, vous pouvez utiliser deux activités de temps mort et vous acquitter d’une somme égale à votre Rang pour le déménager et le cacher de nouveau."
+			"name": "은폐",
+			"description": "조직의 소굴은 비밀 장소에 있고, 척 봐서 알지 못하도록 위장되어 있습니다. 소굴이 발각되면 막간 활동 2회와 조직 등급만큼의 금전을 써서 다시 숨길 수 있습니다."
 		},
 		{
 			"id": "Mastery",
-			"name": "Maîtrise",
-			"description": "Votre bande a accès à un entraînement de niveau maître. Vous pouvez améliorer le score d’action de vos PJ jusqu’à 4 (jusqu’à ce que vous débloquiez cette amélioration, le score d’action de vos PJ est limité à 3). Débloquer cette amélioration vous demandera d’y consacrer quatre cases."
+			"name": "한계 돌파",
+			"description": "조직이 최고급 훈련을 받을 수 있습니다. PC들의 행동 수치가 최대 4까지 올라갈 수 있습니다 (이 업그레이드를 선택하기 전에는 3이 최대치입니다). 한계 돌파는 업그레이드 칸 4개를 채워야 발동됩니다."
 		},
 		{
 			"id": "Quality: Arcane Implements",
-			"name": "Qualité: Ingrédients esotériques",
-			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
+			"name": "품질: 마도 용품",
+			"description": "PC들이 사용하는 마도 용품의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다."
 		},
 		{
 			"id": "Quality: Documents",
-			"name": "Qualité: Documents",
-			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
+			"name": "품질: 문서",
+			"description": "PC들이 사용하는 문서의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다."
 		},
 		{
 			"id": "Quality: Gear",
-			"name": "Qualité: Equipement",
-			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
+			"name": "품질: 장비",
+			"description": "PC들이 사용하는 장비의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다."
 		},
 		{
 			"id": "Quality: Subterfuge Supplies",
-			"name": "Qualité: Fournitures",
-			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
+			"name": "품질: 기만술 물자",
+			"description": "PC들이 사용하는 기만술 물자의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다."
 		},
 		{
 			"id": "Quality: Tools",
-			"name": "Qualité: Outils",
-			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
+			"name": "품질: 공구",
+			"description": "PC들이 사용하는 공구의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다."
 		},
 		{
 			"id": "Quality: Weapons",
-			"name": "Qualité: Armes",
-			"description": "Augmente le score de qualité de tous les objets des PJ de ce type, au-delà de la qualité indiquée par le Rang de l’équipe et de leur marqueur de qualité."
+			"name": "품질: 무기",
+			"description": "PC들이 사용하는 무기의 품질 단계가 높아집니다. 이것은 등급 수치나 고급 여부에 누적됩니다."
 		},
 		{
 			"id": "Quarters",
-			"name": "Quartier",
-			"description": "Votre repaire comprend des quartiers d’habitation pour votre bande. Sans cette amélioration, chaque PJ doit aller se reposer ailleurs, ce qui l’expose aux attaques ennemies à ce moment-là."
+			"name": "숙소",
+			"description": "소굴에 숙소가 마련되어 있습니다. 이 업그레이드가 없으면 PC들은 각각 다른 곳에서 잠을 자기 때문에 위험에 노출됩니다."
 		},
 		{
 			"id": "Secure Lair 1",
-			"name": "Repaire sécurisé 1",
-			"description": "Votre repaire est équipé de verrous, d’alarmes et de pièges qui découragent et déjouent les intrusions. "
+			"name": "보안 1",
+			"description": "소굴에 침입자를 막기 위한 자물쇠, 경보기, 덫이 설치되어 있습니다. 보안이 침입자들에게 얼마나 유효한지 보려면 보통은 조직의 등급으로 판정합니다"
 		},
 		{
 			"id": "Secure Lair 2",
-			"name": "Repaire sécurisé 2",
-			"description": "Augmente encore les défenses du repaire pour leur adjoindre des mesures de sécurité ésotériques, efficaces contre les esprits."
+			"name": "보안 2",
+			"description": "2단계 업그레이드. 영에 대해서도 통하는 마도적 방어 수단까지 갖추게 됩니다."
 		},
 		{
 			"id": "Training: Insight",
-			"name": "Entraînement de Perspicacité",
-			"description": "Lorsque vous entraînez votre Perspicacité pendant un temps mort, vous notez 2 px sur votre jauge de Perspicacité (au lieu d’un seul)."
+			"name": "훈련: 통찰",
+			"description": "막간에 통찰 훈련을 하면 xp가 1이 아니라 2 증가합니다."
 		},
 		{
 			"id": "Training: Personal Exp",
-			"name": "Entraînement: Livet de personnage",
-			"description": "Lorsque vous entraînez votre Livet de personnage pendant un temps mort, vous notez 2 px sur votre jauge de Livret de personnage (au lieu d’un seul)."
+			"name": "훈련: 플레이북",
+			"description": "막간에 플레이북 훈련을 하면 xp가 1이 아니라 2 증가합니다."
 		},
 		{
 			"id": "Training: Prowess",
-			"name": "Entraînement: Prouesse",
-			"description": "Lorsque vous entraînez votre Prouesse pendant un temps mort, vous notez 2 px sur votre jauge de Prouesse (au lieu d’un seul)."
+			"name": "Entraînement: 체력",
+			"description": "막간에 체력 훈련을 하면 xp가 1이 아니라 2 증가합니다."
 		},
 		{
 			"id": "Training: Resolve",
-			"name": "Entraînement: Détermination",
-			"description": "Lorsque vous entraînez votre Détermination pendant un temps mort, vous notez 2 px sur votre jauge de Détermination (au lieu d’un seul)."
+			"name": "Entraînement: 의지",
+			"description": "막간에 의지 훈련을 하면 xp가 1이 아니라 2 증가합니다."
 		},
 		{
 			"id": "Vault 1",
-			"name": "Chambre-forte 1",
-			"description": "Votre repaire possède une chambre-forte, ce qui augmente votre capacité de stockage jusqu’à 8 argents."
+			"name": "금고실 1",
+			"description": "소굴에 안전한 금고실이 있어, 8 금전까지 저장할 수 있습니다. 금고실에는 감방으로 쓸 만한 공간이 딸려 있습니다."
 		},
 		{
 			"id": "Vault 2",
-			"name": "Chambre-forte 2",
-			"description": "Fait passer la capacité à 16 argents. Une section de votre chambre-forte peut être utilisée comme une cellule de confinement."
+			"name": "금고실 2",
+			"description": "2단계 업그레이드. 16 금전까지 저장이 가능합니다."
 		},
 		{
 			"id": "Workshop",
-			"name": "Atelier",
-			"description": "Votre repaire possède un atelier équipé d’outils de bricolage et d’alchimie, ainsi que d’une petite bibliothèque de livres, documents et cartes. Grâce à ce matériel, vous pouvez accomplir des projets à long terme sans avoir à quitter votre repaire."
+			"name": "공방",
+			"description": "소굴에 연금술과 땜질에 쓸 만한 공방과 더불어 책, 문서, 지도가 갖춰진 작은 서재가 있습니다. 이로써 소굴을 떠나지 않고도 장기 프로젝트를 달성할 수 있습니다."
 		}
 	]
 }

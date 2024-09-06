@@ -1,0 +1,124 @@
+{
+  "label": "사냥터",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "Accident": {
+      "name": "사고",
+      "description": "<p>타살의 흔적이 없도록 위장된 살인.</p>",
+      "class": "자객단"
+    },
+    "Acquisition": {
+      "name": "유물 취득",
+      "description": "<p>마도 유물을 구해서 자기 신에게 조율합니다.</p>",
+      "class": "교단"
+    },
+    "Arcane/Weird": {
+      "name": " 마도/기이",
+      "description": "<p>영 에센스, 유령, 종교 용품.</p>",
+      "class": "밀수단"
+    },
+    "Arms": {
+      "name": "무기",
+      "description": "<p>금지된 군용 무기, 폭약, 중화기.</p>",
+      "class": "밀수단"
+    },
+    "Augury": {
+      "name": "신탁",
+      "description": "<p>신의 주의를 끌고 조언을 얻기 위해 필요한 일을 합니다.</p>",
+      "class": "교단"
+    },
+    "Battle": {
+      "name": "싸움",
+      "description": "<p>압도적인 무력으로 적을 물리칩니다.</p>",
+      "class": "건달패"
+    },
+    "Burglary": {
+      "name": "절도",
+      "description": "<p>잠입해서 하는 도둑질.</p>",
+      "class": "그림자들"
+    },
+    "Consecration": {
+      "name": "봉헌",
+      "description": "<p>장소를 자기 신의 몫으로 축성합니다.</p>",
+      "class": "교단"
+    },
+    "Contraband": {
+      "name": "금수품",
+      "description": "<p>마약, 금지된 예술품, 세율 높은 사치품 등.</p>",
+      "class": "밀수단"
+    },
+    "Disappearance": {
+      "name": "실종",
+      "description": "<p>피해자가 흔적을 남기지 않고 사라집니다.</p>",
+      "class": "자객단"
+    },
+    "Espionage": {
+      "name": "첩보",
+      "description": "<p>은밀한 방법을 통해 비밀 정보를 취득.</p>",
+      "class": "그림자들"
+    },
+    "Extortion": {
+      "name": "갈취",
+      "description": "<p>폭력으로 협박해서 돈을 뜯어냅니다.</p>",
+      "class": "건달패"
+    },
+    "Murder": {
+      "name": "살해",
+      "description": "<p>경고를 위한, 눈에 확 띄는 살인.</p>",
+      "class": "자객단"
+    },
+    "Passengers": {
+      "name": "승객",
+      "description": "<p>몰래 여행하는 사람/가축.</p>",
+      "class": "밀수단"
+    },
+    "Ransom": {
+      "name": "납치",
+      "description": "<p>납치 후 몸값을 요구.</p>",
+      "class": "자객단"
+    },
+    "Robbery": {
+      "name": "강도",
+      "description": "<p>무력이나 협박에 의한 도둑질.</p>",
+      "class": "그림자들"
+    },
+    "Sabotage": {
+      "name": "파괴공작",
+      "description": "<p>무언가를 파괴해서 상대에게 손해를 끼칩니다.</p>",
+      "class": "건달패"
+    },
+    "Sacrifice": {
+      "name": "번제",
+      "description": "<p>자기 신을 위해 가치 있거나 좋은 것을 파괴합니다.</p>",
+      "class": "교단"
+    },
+    "Sale": {
+      "name": "매출",
+      "description": "<p>특별한 구매자와의 큰 거래.</p>",
+      "class": "암상회"
+    },
+    "Show of Force": {
+      "name": "세력 과시",
+      "description": "<p>적을 본보기로 만들어 영업을 장악.</p>",
+      "class": "암상회"
+    },
+    "Smash & Grab": {
+      "name": "약탈",
+      "description": "<p>빠르고 폭력적인 무장 강도.</p>",
+      "class": "건달패"
+    },
+    "Socialize": {
+      "name": "영업",
+      "description": "<p>사교 이벤트를 통해 고객이나 공급자와 관계 증진.</p>",
+      "class": "암상회"
+    },
+    "Supply": {
+      "name": "공급처",
+      "description": "<p>새로운 상품을 들이거나 새로운 공급자를 마련하기 위한 거래.</p>",
+      "class": "암상회"
+    }
+  }
+}
