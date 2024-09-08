@@ -340,9 +340,19 @@
 			"description": "<strong>1 스트레스</strong>를 받으면 몇 분 동안 사람의 감각을 넘어서 느낄 수 있습니다. 대상의 진짜 생각이나 감정을 “듣고”, 완전한 암흑 속에서 보고, 보이지 않는 것들의 존재를 느끼고, 감춰진 물건의 위치를 직관하는 등의 일을 할 수 있습니다.",
 			"class": "뱀파이어"
     },
-    "(V) Dark Talent": {
-      "name": "(뱀파) 어둠의 재능",
-			"description": "<strong>통찰</strong>, <strong>체력</strong>, <strong>의지</strong> 중 하나를 고릅니다. 그 특성 수치 아래의 행동들은 최대치가 5로 증가합니다. 또한, 이 특성 수치로 <strong>저항 판정</strong>을 할 때는 <strong>+1d</strong>를 받습니다.",
+    "(V) Dark Talent (Insight)": {
+      "name": "(뱀파) 어둠의 재능: 통찰",
+			"description": "<strong>통찰</strong> 수치 아래의 행동들은 최대치가 5로 증가합니다. 또한, <strong>통찰</strong>로 <strong>저항 판정</strong>을 할 때는 <strong>+1d</strong>를 받습니다.",
+			"class": "뱀파이어"
+    },
+    "(V) Dark Talent (Prowess)": {
+      "name": "(뱀파) 어둠의 재능: 체력",
+			"description": "<strong>체력</strong> 수치 아래의 행동들은 최대치가 5로 증가합니다. 또한, <strong>체력</strong>으로 <strong>저항 판정</strong>을 할 때는 <strong>+1d</strong>를 받습니다.",
+			"class": "뱀파이어"
+    },
+    "(V) Dark Talent (Resolve)": {
+      "name": "(뱀파) 어둠의 재능: 의지",
+			"description": "<strong>의지</strong> 수치 아래의 행동들은 최대치가 5로 증가합니다. 또한, <strong>의지</strong>로 <strong>저항 판정</strong>을 할 때는 <strong>+1d</strong>를 받습니다.",
 			"class": "뱀파이어"
     },
     "(V) Sinister Guile": {
