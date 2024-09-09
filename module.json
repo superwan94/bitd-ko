@@ -1,11 +1,11 @@
 {
   "id": "bitd-ko",
   "title": "Blades in the Dark - Korean",
-  "description": "어둠 속의 칼날 시스템 한국어 번역",
+  "description": "어둠 속의 칼날 한국어 번역",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "esmodules": [
     "./bitd-ko.js"

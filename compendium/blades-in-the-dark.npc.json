@@ -1,0 +1,843 @@
+{
+  "label": "PNG",
+  "mapping": {
+    "description": "system.description",
+    "associatedClass": "system.associated_class",
+    "shortDescription": "system.description_short",
+    "associatedCrewType": "system.associated_crew_type"
+  },
+  "entries": {
+    "Adelaide Phroaig": {
+      "name": "아들레이드 프로익",
+      "tokenName": "아들레이드 프로익",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "귀족",
+      "associatedCrewType": "그림자들"
+    },
+    "Adikin": {
+      "name": "아디킨",
+      "tokenName": "아디킨",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "오컬티스트",
+      "associatedCrewType": "교단"
+    },
+    "Alon Helker": {
+      "name": "알론 헬커",
+      "tokenName": "알론 헬커",
+      "description": "조사관. 부패를 근절하려고 합니다.",
+      "associatedClass": "",
+      "shortDescription": "조사관",
+      "associatedCrewType": ""
+    },
+    "Amancio": {
+      "name": "아만치오",
+      "tokenName": "아만치오",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "브로커",
+      "associatedCrewType": "그림자들"
+    },
+    "Andris": {
+      "name": "안드리스",
+      "tokenName": "안드리스",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "스파이 및 정보 제공자",
+      "associatedCrewType": ""
+    },
+    "Anya": {
+      "name": "아냐",
+      "tokenName": "아냐",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "한량",
+      "associatedCrewType": "암상회"
+    },
+    "Augus": {
+      "name": "오거스",
+      "tokenName": "오거스",
+      "description": "",
+      "associatedClass": "거미",
+      "shortDescription": "건축가",
+      "associatedCrewType": ""
+    },
+    "Bazso Baz": {
+      "name": "바즈소 바즈",
+      "tokenName": "바즈소 바즈",
+      "description": "",
+      "associatedClass": "할리퀸",
+      "shortDescription": "갱 리더",
+      "associatedCrewType": ""
+    },
+    "Belindra": {
+      "name": "벨린드라",
+      "tokenName": "벨린드라",
+      "description": "쇠갈고리 감옥의 교도관",
+      "associatedClass": "",
+      "shortDescription": "교도관",
+      "associatedCrewType": ""
+    },
+    "Bennett": {
+      "name": "베넷",
+      "tokenName": "베넷",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "천문학자",
+      "associatedCrewType": "교단"
+    },
+    "Bryl": {
+      "name": "브릴",
+      "tokenName": "브릴",
+      "description": "",
+      "associatedClass": "할리퀸",
+      "shortDescription": "마약상",
+      "associatedCrewType": ""
+    },
+    "Brynna Skyrkallan": {
+      "name": "브리나 스키르칼란",
+      "tokenName": "브리나 스키르칼란",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "외교관",
+      "associatedCrewType": ""
+    },
+    "Casslyn Mora": {
+      "name": "캐슬린 모라",
+      "tokenName": "캐슬린 모라",
+      "description": "범죄자와 가족 관계가 있는 판사",
+      "associatedClass": "",
+      "shortDescription": "판사",
+      "associatedCrewType": ""
+    },
+    "Casta": {
+      "name": "카스타",
+      "tokenName": "카스타",
+      "description": "",
+      "associatedClass": "사냥개",
+      "shortDescription": "현상금 사냥꾼",
+      "associatedCrewType": ""
+    },
+    "Celene": {
+      "name": "셀린",
+      "tokenName": "셀린",
+      "description": "",
+      "associatedClass": "사냥개",
+      "shortDescription": "파수꾼",
+      "associatedCrewType": ""
+    },
+    "Chael": {
+      "name": "체일",
+      "tokenName": "체일",
+      "description": "",
+      "associatedClass": "칼잡이",
+      "shortDescription": "악랄한 깡패",
+      "associatedCrewType": ""
+    },
+    "Cinda": {
+      "name": "신다",
+      "tokenName": "신다",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": ""
+    },
+    "Conway": {
+      "name": "콘웨이",
+      "tokenName": "콘웨이",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": "건달패"
+    },
+    "Darmot": {
+      "name": "다모트",
+      "tokenName": "다모트",
+      "description": "",
+      "associatedClass": "족제비",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": ""
+    },
+    "Decker": {
+      "name": "데커",
+      "tokenName": "데커",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "무정부주의자",
+      "associatedCrewType": "밀수단"
+    },
+    "Denkirk Sol": {
+      "name": "덴커크 솔",
+      "tokenName": "덴커크 솔",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "변호사",
+      "associatedCrewType": ""
+    },
+    "Dowler": {
+      "name": "다울러",
+      "tokenName": "다울러",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "탐험가",
+      "associatedCrewType": "그림자들"
+    },
+    "Eckerd": {
+      "name": "에커드",
+      "tokenName": "에커드",
+      "description": "",
+      "associatedClass": "거머리",
+      "shortDescription": "시체 도둑",
+      "associatedCrewType": ""
+    },
+    "Edrik": {
+      "name": "에드릭",
+      "tokenName": "에드릭",
+      "description": "",
+      "associatedClass": "뱀파이어",
+      "shortDescription": "중개자",
+      "associatedCrewType": ""
+    },
+    "Elstera Avrathi": {
+      "name": "엘스테라 아브라티",
+      "tokenName": "엘스테라 아브라티",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "외교관",
+      "associatedCrewType": ""
+    },
+    "Elynn": {
+      "name": "엘린",
+      "tokenName": "엘린",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "부두 일꾼",
+      "associatedCrewType": "밀수단"
+    },
+    "Ereth Skane": {
+      "name": "에레스 스케인",
+      "tokenName": "에레스 스케인",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "변호사",
+      "associatedCrewType": ""
+    },
+    "Esme": {
+      "name": "에스메",
+      "tokenName": "에스메",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "주점 주인",
+      "associatedCrewType": "밀수단"
+    },
+    "Exeter": {
+      "name": "엑세터",
+      "tokenName": "엑세터",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "감령관",
+      "associatedCrewType": "자객단"
+    },
+    "Fitz": {
+      "name": "피츠",
+      "tokenName": "피츠",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "수집가",
+      "associatedCrewType": "그림자들"
+    },
+    "Flint": {
+      "name": "플린트",
+      "tokenName": "플린트",
+      "description": "",
+      "associatedClass": "유령사",
+      "shortDescription": "영 상인",
+      "associatedCrewType": ""
+    },
+    "Frake": {
+      "name": "프레이크",
+      "tokenName": "프레이크",
+      "description": "",
+      "associatedClass": "족제비",
+      "shortDescription": "열쇠공",
+      "associatedCrewType": ""
+    },
+    "Gagan": {
+      "name": "가간",
+      "tokenName": "가간",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "학자",
+      "associatedCrewType": "교단"
+    },
+    "Grace": {
+      "name": "그레이스",
+      "tokenName": "그레이스",
+      "description": "",
+      "associatedClass": "칼잡이",
+      "shortDescription": "공갈 전문가",
+      "associatedCrewType": ""
+    },
+    "Grull": {
+      "name": "그럴",
+      "tokenName": "그럴",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "야심찬 중급 깡패",
+      "associatedCrewType": ""
+    },
+    "Harker": {
+      "name": "하커",
+      "tokenName": "하커",
+      "description": "",
+      "associatedClass": "할리퀸",
+      "shortDescription": "감옥 단골.",
+      "associatedCrewType": ""
+    },
+    "Hoxan": {
+      "name": "호산",
+      "tokenName": "호산",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "복수심에 불타는 영혼",
+      "associatedCrewType": ""
+    },
+    "Hoxley": {
+      "name": "혹슬리",
+      "tokenName": "혹슬리",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "밀수꾼",
+      "associatedCrewType": "암상회"
+    },
+    "Hutchins": {
+      "name": "허친스",
+      "tokenName": "허친스",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "골동품 전문가",
+      "associatedCrewType": "교단"
+    },
+    "Irimina": {
+      "name": "이리미나",
+      "tokenName": "이리미나",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "악랄한 귀족",
+      "associatedCrewType": "자객단"
+    },
+    "Jennah": {
+      "name": "제나",
+      "tokenName": "제나",
+      "description": "",
+      "associatedClass": "거미",
+      "shortDescription": "하인",
+      "associatedCrewType": ""
+    },
+    "Jeren": {
+      "name": "제렌",
+      "tokenName": "제렌",
+      "description": "",
+      "associatedClass": "거미",
+      "shortDescription": "푸른코트 기록관",
+      "associatedCrewType": ""
+    },
+    "Jira": {
+      "name": "지라",
+      "tokenName": "지라",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "상인",
+      "associatedCrewType": ""
+    },
+    "Jol": {
+      "name": "졸",
+      "tokenName": "졸",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": ""
+    },
+    "Jul": {
+      "name": "쥴",
+      "tokenName": "쥴",
+      "description": "",
+      "associatedClass": "거머리",
+      "shortDescription": "혈액 상인",
+      "associatedCrewType": ""
+    },
+    "Karlos": {
+      "name": "카를로스",
+      "tokenName": "카를로스",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "현상금 사냥꾼",
+      "associatedCrewType": "자객단"
+    },
+    "Keller": {
+      "name": "켈러",
+      "tokenName": "켈러",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "대장장이",
+      "associatedCrewType": "건달패"
+    },
+    "Kember": {
+      "name": "켐버",
+      "tokenName": "켐버",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "증류주 제조자",
+      "associatedCrewType": ""
+    },
+    "Kira": {
+      "name": "키라",
+      "tokenName": "키라",
+      "description": "",
+      "associatedClass": "뱀파이어",
+      "shortDescription": "보디가드",
+      "associatedCrewType": ""
+    },
+    "Klyra": {
+      "name": "클라이라",
+      "tokenName": "클라이라",
+      "description": "",
+      "associatedClass": "할리퀸",
+      "shortDescription": "주점 주인",
+      "associatedCrewType": ""
+    },
+    "Krop": {
+      "name": "크롭",
+      "tokenName": "크롭",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": ""
+    },
+    "Lady Drake": {
+      "name": "레이디 드레이크",
+      "tokenName": "레이디 드레이크",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "판관",
+      "associatedCrewType": ""
+    },
+    "Lannic": {
+      "name": "라닉",
+      "tokenName": "라닉",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "위조 화가",
+      "associatedCrewType": ""
+    },
+    "Laroze": {
+      "name": "라로즈",
+      "tokenName": "라로즈",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": "그림자들, 암상회"
+    },
+    "Levyra": {
+      "name": "레비라",
+      "tokenName": "레비라",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "영매",
+      "associatedCrewType": ""
+    },
+    "Lewit": {
+      "name": "레윗",
+      "tokenName": "레윗",
+      "description": "시 경비대의 푸른코트",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": ""
+    },
+    "Lutes": {
+      "name": "루테스",
+      "tokenName": "루테스",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "주점 주인",
+      "associatedCrewType": "건달패"
+    },
+    "Lydra": {
+      "name": "라이드라",
+      "tokenName": "라이드라",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "브로커",
+      "associatedCrewType": "암상회, 자객단"
+    },
+    "Lylandra": {
+      "name": "릴란드라",
+      "tokenName": "릴란드라",
+      "description": "",
+      "associatedClass": "뱀파이어",
+      "shortDescription": "연합원",
+      "associatedCrewType": ""
+    },
+    "Lyssa": {
+      "name": "리사",
+      "tokenName": "리사",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "갱 두목",
+      "associatedCrewType": ""
+    },
+    "Malista": {
+      "name": "말리스타",
+      "tokenName": "말리스타",
+      "description": "",
+      "associatedClass": "거머리",
+      "shortDescription": "사제",
+      "associatedCrewType": ""
+    },
+    "Marlane": {
+      "name": "말레인",
+      "tokenName": "말레인",
+      "description": "",
+      "associatedClass": "칼잡이",
+      "shortDescription": "맨손격투가",
+      "associatedCrewType": ""
+    },
+    "Marlo": {
+      "name": "마를로",
+      "tokenName": "마를로",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "갱 두목",
+      "associatedCrewType": "암상회"
+    },
+    "Mateas Kline": {
+      "name": "마테아스 클라인",
+      "tokenName": "마테아스 클라인",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "귀족",
+      "associatedCrewType": "교단"
+    },
+    "Meg": {
+      "name": "메그",
+      "tokenName": "메그",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "투기장 선수",
+      "associatedCrewType": "건달패"
+    },
+    "Melvir": {
+      "name": "멜비르",
+      "tokenName": "멜비르",
+      "description": "",
+      "associatedClass": "사냥개",
+      "shortDescription": "의사",
+      "associatedCrewType": ""
+    },
+    "Mercy": {
+      "name": "머시",
+      "tokenName": "머시",
+      "description": "",
+      "associatedClass": "칼잡이",
+      "shortDescription": "냉혹한 살인자",
+      "associatedCrewType": ""
+    },
+    "Merrul Brime": {
+      "name": "메룰 브림",
+      "tokenName": "메룰 브림",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "비밀 상인",
+      "associatedCrewType": ""
+    },
+    "Mordis": {
+      "name": "모르디스",
+      "tokenName": "모르디스",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "상인",
+      "associatedCrewType": ""
+    },
+    "Moriya": {
+      "name": "모라이아",
+      "tokenName": "모라이아",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "영 상인",
+      "associatedCrewType": "교단"
+    },
+    "Mylera Klev": {
+      "name": "마일레라 클레브",
+      "tokenName": "마일레라 클레브",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "붉은띠단의 리더",
+      "associatedCrewType": ""
+    },
+    "Nyelle": {
+      "name": "나이엘",
+      "tokenName": "나이엘",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "영 상인",
+      "associatedCrewType": "밀수단"
+    },
+    "Nyryx": {
+      "name": "나이릭스",
+      "tokenName": "나이릭스",
+      "description": "",
+      "associatedClass": "유령사",
+      "shortDescription": "빙의하는 유령",
+      "associatedCrewType": ""
+    },
+    "Otto": {
+      "name": "오토",
+      "tokenName": "오토",
+      "description": "",
+      "associatedClass": "뱀파이어",
+      "shortDescription": "마부",
+      "associatedCrewType": ""
+    },
+    "Petra": {
+      "name": "페트라",
+      "tokenName": "페트라",
+      "description": "",
+      "associatedClass": "족제비",
+      "shortDescription": "공무원",
+      "associatedCrewType": ""
+    },
+    "Polix": {
+      "name": "폴릭스",
+      "tokenName": "폴릭스",
+      "description": "도스크월 총독의 관리. 비밀 영매이자 룬 수집가.",
+      "associatedClass": "",
+      "shortDescription": "관리",
+      "associatedCrewType": ""
+    },
+    "Quellyn": {
+      "name": "퀠린",
+      "tokenName": "퀠린",
+      "description": "",
+      "associatedClass": "유령사",
+      "shortDescription": "마녀",
+      "associatedCrewType": ""
+    },
+    "Raffello": {
+     "name": "라펠로",
+      "tokenName": "라펠로",
+      "description": "초자연적인 현상에 집착하는 유명 화가.",
+      "associatedClass": "",
+      "shortDescription": "유명 화가",
+      "associatedCrewType": ""
+    },
+    "Reyf": {
+      "name": "레이프",
+      "tokenName": "레이프",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "푸른코트",
+      "associatedCrewType": ""
+    },
+    "Rigney": {
+      "name": "리그니",
+      "tokenName": "리그니",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "주점 주인",
+      "associatedCrewType": "그림자들"
+    },
+    "Riven": {
+      "name": "리븐",
+      "tokenName": "리븐",
+      "description": "",
+      "associatedClass": "거미",
+      "shortDescription": "약사",
+      "associatedCrewType": ""
+    },
+    "Rolan": {
+      "name": "롤란",
+      "tokenName": "롤란",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "마약상",
+      "associatedCrewType": "밀수단"
+    },
+    "Rolan Wott": {
+      "name": "롤란 워트",
+      "tokenName": "롤란 워트",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "판관",
+      "associatedCrewType": "암상회"
+    },
+    "Roslyn Kellis": {
+      "name": "로슬린 켈리스",
+      "tokenName": "로슬린 켈리스",
+      "description": "",
+      "associatedClass": "족제비",
+      "shortDescription": "귀족",
+      "associatedCrewType": ""
+    },
+    "Rutherford": {
+      "name": "러더포드",
+      "tokenName": "러더포드",
+      "description": "",
+      "associatedClass": "뱀파이어",
+      "shortDescription": "집사",
+      "associatedCrewType": ""
+    },
+    "Salia": {
+      "name": "살리아",
+      "tokenName": "살리아",
+      "description": "",
+      "associatedClass": "거미",
+      "shortDescription": "정보 상인",
+      "associatedCrewType": ""
+    },
+    "Sawtooth": {
+      "name": "톱날이빨",
+      "tokenName": "톱날이빨",
+      "description": "",
+      "associatedClass": "칼잡이",
+      "shortDescription": "의사",
+      "associatedCrewType": ""
+    },
+    "Scurlock": {
+      "name": "스컬록",
+      "tokenName": "스컬록",
+      "description": "",
+      "associatedClass": "유령사",
+      "shortDescription": "뱀파이어",
+      "associatedCrewType": ""
+    },
+    "Sera": {
+      "name": "세라",
+      "tokenName": "세라",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "무기 상인",
+      "associatedCrewType": "밀수단"
+    },
+    "Setarra": {
+      "name": "세타라",
+      "tokenName": "세타라",
+      "description": "",
+      "associatedClass": "유령사",
+      "shortDescription": "악마",
+      "associatedCrewType": ""
+    },
+    "Sevoy": {
+      "name": "세보이",
+      "tokenName": "세보이",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "상인 귀족",
+      "associatedCrewType": "자객단"
+    },
+    "Stazia": {
+      "name": "스타지아",
+      "tokenName": "스타지아",
+      "description": "",
+      "associatedClass": "거머리",
+      "shortDescription": "약사",
+      "associatedCrewType": ""
+    },
+    "Steiner": {
+      "name": "스타이너",
+      "tokenName": "스타이너",
+      "description": "",
+      "associatedClass": "사냥개",
+      "shortDescription": "자객",
+      "associatedCrewType": ""
+    },
+    "Taffer": {
+      "name": "타퍼",
+      "tokenName": "타퍼",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "상인",
+      "associatedCrewType": ""
+    },
+    "Telda": {
+      "name": "텔다",
+      "tokenName": "텔다",
+      "description": "",
+      "associatedClass": "족제비",
+      "shortDescription": "거지",
+      "associatedCrewType": ""
+    },
+    "The Star": {
+      "name": "별",
+      "tokenName": "별",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "보이지 않는 이들의 행동대장",
+      "associatedCrewType": ""
+    },
+    "The Tower": {
+      "name": "탑",
+      "tokenName": "탑",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "보이지 않는 이들의 리더",
+      "associatedCrewType": ""
+    },
+    "Thomas": {
+      "name": "토마스",
+      "tokenName": "토마스",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "의사",
+      "associatedCrewType": "건달패"
+    },
+    "Trev": {
+      "name": "트레브",
+      "tokenName": "트레브",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "갱 두목",
+      "associatedCrewType": "자객단"
+    },
+    "Tyrsin Nol": {
+      "name": "티르신 놀",
+      "tokenName": "티르신 놀",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "외교관",
+      "associatedCrewType": ""
+    },
+    "Ulf Ironborn": {
+      "name": "울프 아이언본",
+      "tokenName": "울프 아이언본",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "폭력적이 스코블란인",
+      "associatedCrewType": ""
+    },
+    "Veldren": {
+      "name": "벨드렌",
+      "tokenName": "벨드렌",
+      "description": "",
+      "associatedClass": "거머리",
+      "shortDescription": "환각탐험가",
+      "associatedCrewType": ""
+    },
+    "Veleris": {
+      "name": "벨레리스",
+      "tokenName": "벨레리스",
+      "description": "",
+      "associatedClass": "사냥개",
+      "shortDescription": "첩자",
+      "associatedCrewType": ""
+    },
+    "Walker": {
+      "name": "워커",
+      "tokenName": "워커",
+      "description": "",
+      "associatedClass": "",
+      "shortDescription": "구역 보스",
+      "associatedCrewType": "건달패"
+    }
+  }
+}
