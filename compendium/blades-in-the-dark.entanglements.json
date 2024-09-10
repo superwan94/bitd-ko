@@ -1,0 +1,17 @@
+{
+	"label": "얽힘",
+	"entries": {
+		"Entanglements - Heat 0-3": {
+			"name": "얽힘 - 열기 0-3",
+			"description": "두 가지 결과가 있는 경우 어느 것을 사용할지 마스터가 선택합니다."
+		},
+		"Entanglements - Heat 4/5": {
+			"name": "얽힘 - 열기 4/5",
+			"description": "두 가지 결과가 있는 경우 어느 것을 사용할지 마스터가 선택합니다."
+		},
+		"Entanglements - Heat 6+": {
+			"name": "얽힘 - 열기 6+",
+			"description": "두 가지 결과가 있는 경우 어느 것을 사용할지 마스터가 선택합니다."
+		}
+	}
+}
