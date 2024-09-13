@@ -1,297 +1,249 @@
 {
-	"label": "조직 특수 능력",
-	"mapping": {
-		"description": "system.description",
-		"class": "system.class"
-	},
-	"entries": [
-		{
-			"id": "(A) Crow's Veil",
-			"name": "(자객단) 까마귀의 베일",
+  "label": "조직 특수 능력",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "(A) Crow's Veil": {
+      "name": "(자객단) 까마귀의 베일",
 			"description": "어렵게 얻은 경험 또는 오컬트 의식 덕분에, 조직의 행동은 죽음감시 까마귀들의 주의를 끌지 않습니다. 건수에서 사람이 살해되었을 때 추가 <strong>열기</strong>를 받지 않습니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) Deadly",
-			"name": "(자객단) 치명적",
+    },
+    "(A) Deadly": {
+      "name": "(자객단) 치명적",
 			"description": "각 PC가 <strong>사냥</strong>, <strong>잠행</strong>, 또는 <strong>접전</strong>의 행동 수치를 +1 높일 수 있습니다 (최대치 3).",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) Emberdeath",
-			"name": "(자객단) 잿불죽음",
+    },
+    "(A) Emberdeath": {
+      "name": "(자객단) 잿불죽음",
 			"description": "어렵게 얻은 경험 덕분에, 어쩌면 오컬트 의식 덕분에, 산 사람을 죽일 때 영혼까지 파괴하는 마도적 수법을 압니다. <strong>3 스트레스</strong>를 받으면 유령장에서 엘렉트로플라즘 에너지를 끌어와 영혼과 육신을 반짝이는 잿불로 분해할 수 있습니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) No Traces",
-			"name": "(자객단) 흔적 없음",
+    },
+    "(A) No Traces": {
+      "name": "(자객단) 흔적 없음",
 			"description": "작전을 조용히 수행하거나 사고처럼 보이게 만들면 목표의 <strong>명성</strong> 값을 절반을 받습니다 (원래는 0). <strong>열기</strong> 0으로 <strong>막간</strong>이 끝나면 <strong>명성</strong>이 +1 증가합니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) Patron",
-			"name": "(자객단) 후견인",
+    },
+    "(A) Patron": {
+      "name": "(자객단) 후견인",
 			"description": "<strong>등급</strong>을 높일 때의 <strong>금전 비용이 통상의 반</strong>이 됩니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) Predators",
-			"name": "(자객단) 표범들",
+    },
+    "(A) Predators": {
+      "name": "(자객단) 표범들",
 			"description": "살인을 목적으로 은밀 및 속임수 계획을 사용할 때 <strong>접근 판정</strong>에 <strong>+1d</strong>를 받습니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) Veteran",
-			"name": "(자객단) 베테랑",
+    },
+    "(A) Veteran": {
+      "name": "(자객단) 베테랑",
 			"description": "다른 조직의 특수 능력을 하나 고릅니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(A) Vipers",
-			"name": "(자객단) 독사들",
+    },
+    "(A) Vipers": {
+      "name": "(자객단) 독사들",
 			"description": "독을 구하거나 만들 때, 판정의 <strong>결과가 한 단계 높아집니다.</strong> 독을 사용할 때는 그 효과에 면역이 되도록 특별한 준비를 합니다.",
 			"class": "자객단"
-		},
-		{
-			"id": "(Br) Blood Brothers",
-			"name": "(건달패) 의형제",
+    },
+    "(Br) Blood Brothers": {
+      "name": "(건달패) 의형제",
 			"description": "PC가 <strong>부하들</strong>과 전투에서 함께 싸우면 부하들은 <strong>팀워크</strong> 판정에 <strong>+1</strong>를 받습니다 (밑작업 및 집단 행동). 모든 부하들이 별도의 비용 없이 깡패 유형을 받습니다 (이미 깡패이면 다른 유형을 추가하세요).",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) Dangerous",
-			"name": "(건달패) 위험인물들",
+    },
+    "(Br) Dangerous": {
+      "name": "(건달패) 위험인물들",
 			"description": "각 PC가 <strong>사냥</strong>, <strong>접전</strong>, 또는 <strong>파괴</strong>의 행동 수치를 +1 높일 수 있습니다 (최대치 3).",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) Door Kickers",
-			"name": "(건달패) 돌진",
+    },
+    "(Br) Door Kickers": {
+      "name": "(건달패) 돌진",
 			"description": "습격 계획을 실행할 때 <strong>접근 판정</strong>에 <strong>+1d</strong>를 받습니다.",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) Fiends",
-			"name": "(건달패) 악귀들",
+    },
+    "(Br) Fiends": {
+      "name": "(건달패) 악귀들",
 			"description": "존중만큼 좋은 것이 공포입니다. <strong>수배 단계</strong>만큼의 영토가 있는 것처럼 다룹니다.",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) Forged In The Fire",
-			"name": "(건달패) 역경으로 단련",
+    },
+    "(Br) Forged In The Fire": {
+      "name": "(건달패) 역경으로 단련",
 			"description": "PC들은 모두 잔혹한 경험을 통해 단련되었습니다. <strong>저항 판정에 +1d</strong>를 받습니다.",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) Patron",
-			"name": "(건달패) 후견인",
+    },
+    "(Br) Patron": {
+      "name": "(건달패) 후견인",
 			"description": "<strong>등급</strong>을 높일 때의 <strong>금전 비용이 통상의 반</strong>이 됩니다.",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) Veteran",
-			"name": "(건달패) 베테랑",
+    },
+    "(Br) Veteran": {
+      "name": "(건달패) 베테랑",
 			"description": "다른 조직의 특수 능력을 하나 고릅니다.",
 			"class": "건달패"
-		},
-		{
-			"id": "(Br) War Dogs",
-			"name": "(건달패) 전쟁의 개들",
+    },
+    "(Br) War Dogs": {
+      "name": "(건달패) 전쟁의 개들",
 			"description": "전쟁 상태 (파벌 호감 -3)일 때에도 통제력 페널티를 받지 않습니다. 또한 PC들은 막간 활동을 1회가 아니라 2회 할 수 있습니다.",
 			"class": "건달패"
-		},
-		{
-			"id": "(C) Anointed",
-			"name": "(교단) 축성",
+    },
+    "(C) Anointed": {
+      "name": "(교단) 축성",
 			"description": "초자연적인 위협에 대해 <strong>저항 판정</strong>을 할 때 <strong>+1d</strong>를 받습니다. 초자연적 피해를 입은 상태에서 <strong>치료</strong> 판정에 <strong>+1d</strong>를 받습니다.",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Bound in Darkness",
-			"name": "(교단) 어둠의 유대",
+    },
+    "(C) Bound in Darkness": {
+      "name": "(교단) 어둠의 유대",
 			"description": "아무리 떨어져 있어도 교단의 구성원들과 <strong>팀워크 전술<b/>을 쓸 수 있습니다. <strong>1 스트레스</strong>를 받으면 모든 교도에게 들리도록 속삭일 수 있습니다.",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Chosen",
-			"name": "(교단) 선택받은 자들",
+    },
+    "(C) Chosen": {
+      "name": "(교단) 선택받은 자들",
 			"description": "각 PC가 <strong>조율</strong>, <strong>연구</strong>, 또는 <strong>현혹</strong>의 행동 수치를 +1 높일 수 있습니다 (최대치 3).",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Conviction",
-			"name": "(교단) 신념",
+    },
+    "(C) Conviction": {
+      "name": "(교단) 신념",
 			"description": "각 PC가 추가 <strong>악습</strong>으로 예배를 갖게 됩니다. 이 악습에 탐닉하며 신이 반기는 제물을 바치면 쌓인 스트레스를 넘어서 해소해도 과잉 탐닉이 되지 않습니다. 또한, 이 악습에 다시 탐닉할 때까지 한 번 행동에 신의 <strong>도움</strong>을 받습니다.",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Glory Incarnate",
-			"name": "(교단) 영광스런 현신",
+    },
+    "(C) Glory Incarnate": {
+      "name": "(교단) 영광스런 현신",
 			"description": "신이 때때로 물질 세계에 현신합니다. 이것은 큰 경사일 수도 있지만, 신은 가치관과 우선 순위가 인간과 다릅니다. 조심하세요.",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Sealed in Blood",
-			"name": "(교단) 피의 제사",
+    },
+    "(C) Sealed in Blood": {
+      "name": "(교단) 피의 제사",
 			"description": "제물로 바치는 사람 하나마다 의식에 소비되는 <strong>스트레스가 -3씩</strong> 감소합니다.",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Veteran",
-			"name": "(교단) 베테랑",
+    },
+    "(C) Veteran": {
+      "name": "(교단) 베테랑",
 			"description": "다른 조직의 특수 능력을 하나 고릅니다.",
 			"class": "교단"
-		},
-		{
-			"id": "(C) Zealotry",
-			"name": "(교단) 광신",
+    },
+    "(C) Zealotry": {
+      "name": "(교단) 광신",
 			"description": "<strong>부하들</strong>이 이성을 저버리고 교단에 헌신합니다. 아무리 위험하거나 괴상한 일이라 해도 시키는 대로 합니다. 교단의 적들을 상대로 행동할 때는 판정에 +1d를 받습니다.",
 			"class": "교단"
-		},
-		{
-			"id": "(H) Accord",
-			"name": "(암상회) 협정",
+    },
+    "(H) Accord": {
+      "name": "(암상회) 협정",
 			"description": "때로는 친구가 영토만큼이나 유용합니다. <strong>호감 +3</strong>인 파벌 (최대 3개)을 마치 <strong>영토</strong>인 것처럼 칠 수 있습니다.",
 			"class": "암상회"
-		},
-		{
-      "id": "(H) Ghost Market",
+    },
+    "(H) Ghost Market": {
       "name": "(암상회) 유령 시장",
       "description": "마도 의식이나 어렵게 얻은 경험 덕분에, 유령이나 악마들에게 팔 수 있도록 상품을 처리하는 방법을 발견했습니다. 이 손님들은 돈을 쓰지 않습니다. 무엇으로 값을 치르나요?",
       "class": "암상회"
     },
-    {
-      "id": "(H) High Society",
+    "(H) High Society": {
       "name": "(암상회) 상류 사회",
       "description": "인맥이 제일입니다. 막간에 <strong>열기</strong>가 -1 감소하고, 도시의 상류층에 관한 <strong>정보 수집</strong>을 할 때 <strong>+1d</strong>를 받습니다.",
       "class": "암상회"
     },
-    {
-      "id": "(H) Hooked",
+    "(H) Hooked": {
       "name": "(암상회) 중독",
       "description": "조직원들이 조직의 상품을 사용합니다. 휘하의 모든 패거리에 야만적, 못미더움, 제멋대로 중에서 단점 하나를 주고, 패거리들의 품질을 +1 높입니다 (최대 4).",
       "class": "암상회"
     },
-    {
-      "id": "(H) Patron",
+    "(H) Patron": {
       "name": "(암상회) 후견인",
       "description": "<strong>등급</strong>을 높일 때의 <strong>금전 비용이 통상의 반</strong>이 됩니다.",
       "class": "암상회"
     },
-    {
-      "id": "(H) Silver Tongues",
+    "(H) Silver Tongues": {
       "name": "(암상회) 달변",
       "description": "각 PC가 <strong>명령</strong>, <strong>친교</strong>, 또는 <strong>현혹</strong>의 행동 수치를 +1 높입니다 (최대치 3).",
       "class": "암상회"
     },
-    {
-      "id": "(H) The Good Stuff",
+    "(H) The Good Stuff": {
       "name": "(암상회) 상급품",
       "description": "최고급의 상품을 다룹니다. <strong>품질</strong>은 조직의 <strong>등급+2<b/>에 해당합니다. 다른 조직이나 파벌을 상대할 때, 마스터는 그 중 누가 여러분의 상품에 빠져들었는지 가르쳐 줄 것입니다 (하나, 몇 명, 다수, 전부).",
       "class": "암상회"
     },
-    {
-      "id": "(H) Veteran",
+    "(H) Veteran": {
       "name": "(암상회) 베테랑",
       "description": "다른 조직의 특수 능력을 하나 고릅니다.",
       "class": "암상회"
     },
-    {
-			"id": "(Sh) Everyone Steals",
-			"name": "(그림자) 모두가 훔치며 산다",
+    "(Sh) Everyone Steals": {
+      "name": "(그림자) 모두가 훔치며 산다",
 			"description": "각 PC가 <strong>잠행</strong>, <strong>기교</strong>, 또는 <strong>땜질</strong> 행동 수치를 +1 높입니다 (최대치 3).",
 			"class": "그림자들"
-		},
-		{
-			"id": "(Sh) Ghost Echoes",
-			"name": "(그림자) 유령 메아리",
+    },
+    "(Sh) Ghost Echoes": {
+      "name": "(그림자) 유령 메아리",
 			"description": "기이한 경험이나 오컬트 의식을 톻애, 조직원들은 모두 유령장에 메아리로서 남아 있는 도스크볼의 유령 같은 건물, 거리, 물체들을 보고 만질 수 있습니다.",
 			"class": "그림자들"
-		},
-		{
-			"id": "(Sh) Pack Rats",
-			"name": "(그림자) 잡동사니",
+    },
+    "(Sh) Pack Rats": {
+      "name": "(그림자) 잡동사니",
 			"description": "소굴에 훔친 물건들이 잔뜩 널려 있습니다. <strong>자산 조달</strong> 판정에 <strong>+1d</strong>를 받습니다.",
 			"class": "그림자들"
-		},
-		{
-			"id": "(Sh) Patron",
-			"name": "(그림자) 후견인",
+    },
+    "(Sh) Patron": {
+      "name": "(그림자) 후견인",
 			"description": "<strong>등급</strong>을 높일 때의 <strong>금전 비용이 통상의 반</strong>이 됩니다.",
 			"class": "그림자들"
-		},
-		{
-			"id": "(Sh) Second Story",
-			"name": "(그림자) 이층 잠입",
+    },
+    "(Sh) Second Story": {
+      "name": "(그림자) 이층 잠입",
 			"description": "비밀리에 침입하는 작전의 <strong>접근 판정</strong>에 <strong>+1d</strong>를 받습니다.",
 			"class": "그림자들"
-		},
-		{
-			"id": "(Sh) Slippery",
-			"name": "(그림자) 미꾸라지",
+    },
+    "(Sh) Slippery": {
+      "name": "(그림자) 미꾸라지",
 			"description": "얽힘 판정을 할 때 주사위를 두 번 굴리고 원하는 것을 고릅니다. <strong>열기 감소</strong> 판정을 할 때는 +1d를 받습니다.",
 			"class": "그림자들"
-		},
-		{
-      "id": "(Sh) Synchronized",
+    },
+    "(Sh) Synchronized": {
       "name": "(그림자) 호흡 맞추기",
       "description": "<strong>집단 행동</strong>을 할 때, 서로 다른 판정들에서 6을 모아 <strong>대성공</strong>으로 칠 수 있습니다.",
       "class": "그림자들"
     },
-    {
-      "id": "(Sh) Veteran",
+    "(Sh) Veteran": {
       "name": "(그림자) 베테랑",
       "description": "다른 조직의 특수 능력을 하나 고릅니다.",
       "class": "그림자들"
     },
-    {
-      "id": "(Sm) All Hands",
+    "(Sm) All Hands": {
       "name": "(밀수단) 총동원",
       "description": "<strong>막간</strong>에 부하 하나가 <strong>자산 조달, 열기 감소,</strong> 또는 <strong>장기 프로젝트 작업</strong>을 한 번 할 수 있습니다.",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Ghost Passage",
+    "(Sm) Ghost Passage": {
       "name": "(밀수단) 유령 승객",
       "description": "지독한 경험이나 오컬트 의식 덕분에, 조직 멤버들은 모두가 영의 빙의에 면역이 됩니다. 또한 각자가 유령 하나를 자기 몸에 “승객”으로 태울 수 있습니다.",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Just Passing Through",
+    "(Sm) Just Passing Through": {
       "name": "(밀수단) 그냥 지나가는 길입니다",
       "description": "<strong>막간</strong>에 <strong>열기</strong>가 -1 감소합니다. <strong>열기</strong> 4 이하이면 평범한 시민 시늉을 하여 남들을 속일 때 +1d를 받습니다.",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Leverage",
+    "(Sm) Leverage": {
       "name": "(밀수단) 공생",
       "description": "이 조직은 다른 파벌들에 불법 상품을 공급합니다. 여러분의 성공이 그 파벌들의 성공이기도 합니다. <strong>명성</strong>을 얻을 때마다 <strong>명성</strong>을 +1 더 얻습니다.",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Like Part of the Family",
+    "(Sm) Like Part of the Family": {
       "name": "(밀수단) 가족이나 마찬가지",
       "description": "탈것 하나를 등급+1 품질의 부하로 만듭니다 (탈것 장점과 단점 사용).",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Reavers",
+    "(Sm) Reavers": {
       "name": "(밀수단) 기동전",
       "description": "탈것을 타고 싸울 경우, 탈것의 피해와 속도에 관한 판정에 <strong>+1 효과</strong>를 받습니다. 탈것에 <strong>갑옷</strong>이 생깁니다.",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Renegades",
+    "(Sm) Renegades": {
       "name": "(밀수단) 무법자들",
       "description": "각 PC가 <strong>잠행</strong>, <strong>기교</strong>, 또는 <strong>접전</strong> 행동 수치를 +1 높입니다 (최대치 3).",
       "class": "밀수단"
     },
-    {
-      "id": "(Sm) Veteran",
+    "(Sm) Veteran": {
       "name": "(밀수단) 베테랑",
       "description": "다른 조직의 특수 능력을 하나 고릅니다.",
       "class": "밀수단"
     }
-	]
+  }
 }

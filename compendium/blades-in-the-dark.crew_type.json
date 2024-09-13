@@ -1,44 +1,42 @@
 {
-	"label": "영토",
-	"mapping": {
+  "label": "영토",
+  "mapping": {
     "description": "system.description",
-	"experience_clues": "system.experience_clues",
-	"terrname1": "system.turfs.1.name",
-	"terrdesc1": "system.turfs.1.description",
-	"terrname2": "system.turfs.2.name",
-	"terrdesc2": "system.turfs.2.description",
-	"terrname3": "system.turfs.3.name",
-	"terrdesc3": "system.turfs.3.description",
-	"terrname4": "system.turfs.4.name",
-	"terrdesc4": "system.turfs.4.description",
-	"terrname5": "system.turfs.5.name",
-	"terrdesc5": "system.turfs.5.description",
-	"terrname6": "system.turfs.6.name",
-	"terrdesc6": "system.turfs.6.description",
-	"terrname7": "system.turfs.7.name",
-	"terrdesc7": "system.turfs.7.description",
-	"terrname8": "system.turfs.8.name",
-	"terrdesc8": "system.turfs.8.description",
-	"terrname9": "system.turfs.9.name",
-	"terrdesc9": "system.turfs.9.description",
-	"terrname10": "system.turfs.10.name",
-	"terrdesc10": "system.turfs.10.description",
-	"terrname11": "system.turfs.11.name",
-	"terrdesc11": "system.turfs.11.description",
-	"terrname12": "system.turfs.12.name",
-	"terrdesc12": "system.turfs.12.description",
-	"terrname13": "system.turfs.13.name",
-	"terrdesc13": "system.turfs.13.description",
-	"terrname14": "system.turfs.14.name",
-	"terrdesc14": "system.turfs.14.description",
-	"terrname15": "system.turfs.15.name",
-	"terrdesc15": "system.turfs.15.description"
-    },
-
-	"entries": [
-		{
-			"id": "Assassins",
-			"name": "자객단",
+    "experience_clues": "system.experience_clues",
+    "terrname1": "system.turfs.1.name",
+    "terrdesc1": "system.turfs.1.description",
+    "terrname2": "system.turfs.2.name",
+    "terrdesc2": "system.turfs.2.description",
+    "terrname3": "system.turfs.3.name",
+    "terrdesc3": "system.turfs.3.description",
+    "terrname4": "system.turfs.4.name",
+    "terrdesc4": "system.turfs.4.description",
+    "terrname5": "system.turfs.5.name",
+    "terrdesc5": "system.turfs.5.description",
+    "terrname6": "system.turfs.6.name",
+    "terrdesc6": "system.turfs.6.description",
+    "terrname7": "system.turfs.7.name",
+    "terrdesc7": "system.turfs.7.description",
+    "terrname8": "system.turfs.8.name",
+    "terrdesc8": "system.turfs.8.description",
+    "terrname9": "system.turfs.9.name",
+    "terrdesc9": "system.turfs.9.description",
+    "terrname10": "system.turfs.10.name",
+    "terrdesc10": "system.turfs.10.description",
+    "terrname11": "system.turfs.11.name",
+    "terrdesc11": "system.turfs.11.description",
+    "terrname12": "system.turfs.12.name",
+    "terrdesc12": "system.turfs.12.description",
+    "terrname13": "system.turfs.13.name",
+    "terrdesc13": "system.turfs.13.description",
+    "terrname14": "system.turfs.14.name",
+    "terrdesc14": "system.turfs.14.description",
+    "terrname15": "system.turfs.15.name",
+    "terrdesc15": "system.turfs.15.description"
+  },
+  "entries": {
+    "Assassins": {
+      "name": "자객단",
 			"description": "청부살인자들",
 			"experience_clues": "- 납치, 사고, 살해, 실종 작전에 성공한 경우.<br/> - 자기 주제를 넘는 난관을 상대한 경우.<br/> - 조직의 평판을 강화하거나 새로운 평판을 얻은 경우.<br/> - 조직의 목표, 동기, 내적 갈등, 본질을 표현한 경우.",
 			"terrname1": "훈련실",
@@ -65,10 +63,9 @@
 			"terrdesc14": "속임수 및 사교 계획의 접근 판정 <strong>+1d</strong>",
 			"terrname15": "도시 기록물",
 			"terrdesc15": "은밀 계획의 접근 판정 <strong>+1d</strong>"
-		},
-		{
-			"id": "Bravos",
-			"name": "건달패",
+    },
+    "Bravos": {
+      "name": "건달패",
 			"description": "용병과 깡패들",
 			"experience_clues": "- 갈취, 싸움, 약탈, 파괴공작 작전에 성공한 경우.<br/> - 자기 주제를 넘는 난관을 상대한 경우.<br/> - 조직의 평판을 강화하거나 새로운 평판을 얻은 경우.<br/> - 조직의 목표, 동기, 내적 갈등, 본질을 표현한 경우.",
 			"terrname1": "병영",
@@ -81,7 +78,7 @@
 			"terrdesc5": "막간에 (등급 판정 - <strong>열기</strong>) <strong>금전</strong>",
 			"terrname6": "투기장",
 			"terrdesc6": "막간에 (등급 판정 - <strong>열기</strong>) <strong>금전</strong>",
-			"terrname11": "의무실",
+      "terrname11": "의무실",
 			"terrdesc11": "치료 판정에 <strong>+1d</strong>",
 			"terrname12": "블루코트의 위협",
 			"terrdesc12": "건수의 <strong>열기 -2</strong>",
@@ -91,10 +88,9 @@
 			"terrdesc14": "자산 조달 <strong>+1d</strong>",
 			"terrname15": "푸른코트 조력자",
 			"terrdesc15": "습격 계획의 접근 판정 <strong>+1d</strong>"
-		},
-		{
-			"id": "Cult",
-			"name": "교단",
+    },
+    "Cult": {
+      "name": "교단",
 			"description": "잊힌 신을 섬기는 자들",
 			"experience_clues": "- 자기 신이 목표하는 바에 가까워지거나 그 가르침을 행동으로 드러낸 경우.<br/> - 자기 주제를 넘는 난관을 상대한 경우.<br/> - 조직의 평판을 강화하거나 새로운 평판을 얻은 경우.<br/> - 조직의 목표, 동기, 내적 갈등, 본질을 표현한 경우.",
 			"terrname1": "수도원",
@@ -107,7 +103,17 @@
 			"terrdesc4": "마도 능력과 의식의 스트레스 -1",
 			"terrname5": "고대의 탑",
 			"terrdesc5": "마도의 존재들과 <strong>친교</strong>에 <strong>+1d</strong>",
-			"terrname11": "영 우물",
+      "terrname6": "BITD.Turf",
+      "terrdesc6": "",
+      "terrname7": "BITD.Turf",
+      "terrdesc7": "",
+      "terrname8": "BITD.Lair",
+      "terrdesc8": "",
+      "terrname9": "BITD.Turf",
+      "terrdesc9": "",
+      "terrname10": "BITD.Turf",
+      "terrdesc10": "",
+      "terrname11": "영 우물",
 			"terrdesc11": "현장에서 <strong>조율</strong>에 <strong>+1d</strong>",
 			"terrname12": "고대의 문",
 			"terrdesc12": "죽음의 땅에서 안전 통행",
@@ -117,10 +123,9 @@
 			"terrdesc14": "치료 판정에 <strong>+1d</strong>",
 			"terrname15": "고대의 제단",
 			"terrdesc15": "오컬트 계획의 접근 판정 <strong>+1d</strong>"
-		},
-		{
-			"id": "Hawkers",
-			"name": "암상회",
+    },
+    "Hawkers": {
+      "name": "암상회",
 			"description": "악습의 상인들",
 			"experience_clues": "- 새로운 공급처를 찾거나, 비밀 거래로 매출을 올리거나, 새 시장을 확보한 경우.<br/> - 자기 주제를 넘는 난관을 상대한 경우.<br/> - 조직의 평판을 강화하거나 새로운 평판을 얻은 경우.<br/> - 조직의 목표, 동기, 내적 갈등, 본질을 표현한 경우.",
 			"terrname2": "전속 재단사",
@@ -131,7 +136,7 @@
 			"terrdesc4": "영토에서 <strong>사냥</strong> 및 <strong>파악</strong>에 <strong>+1d</strong>",
 			"terrname5": "정보통",
 			"terrdesc5": "건수의 정보 수집 <strong>+1d</strong>",
-			"terrname10": "고급 점포",
+      "terrname10": "고급 점포",
 			"terrdesc10": "현장에서 <strong>친교</strong> 및 <strong>현혹</strong>에 <strong>+1d</strong>",
 			"terrname11": "외국 시장",
 			"terrdesc11": "막간에 (등급 판정 - <strong>열기</strong>) <strong>금전</strong>",
@@ -143,10 +148,9 @@
 			"terrdesc14": "건수의 <strong>열기 -2</strong>",
 			"terrname15": "위장 신분",
 			"terrdesc15": "속임수 및 사교 계획의 접근 판정 <strong>+1d</strong>"
-		},
-		{
-			"id": "Shadows",
-			"name": "그림자들",
+    },
+    "Shadows": {
+      "name": "그림자들",
 			"description": "도둑과 첩자들",
 			"experience_clues": "- 강도, 절도, 첩보, 파괴공작 작전에 성공한 경우.<br/> - 자기 주제를 넘는 난관을 상대한 경우.<br/> - 조직의 평판을 강화하거나 새로운 평판을 얻은 경우.<br/> - 조직의 목표, 동기, 내적 갈등, 본질을 표현한 경우.",
 			"terrname1": "심문실",
@@ -171,10 +175,9 @@
 			"terrdesc13": "첩보/파괴공작은 <strong>+2 금전</strong>",
 			"terrname15": "비밀 통로",
 			"terrdesc15": "은밀 계획의 접근 판정 <strong>+1d</strong>"
-		},
-		{
-			"id": "Smugglers",
-			"name": "밀수단",
+    },
+    "Smugglers": {
+      "name": "밀수단",
 			"description": "금수품의 운반자들",
 			"experience_clues": "- 밀수 작전에 성공하거나 신규 고객 및 금수품 공급처를 확보한 경우.<br/> - 자기 주제를 넘는 난관을 상대한 경우.<br/> - 조직의 평판을 강화하거나 새로운 평판을 얻은 경우.<br/> - 조직의 목표, 동기, 내적 갈등, 본질을 표현한 경우.",
 			"terrname2": "곁가지 사업",
@@ -197,6 +200,6 @@
 			"terrdesc14": "건수의 <strong>열기 -2</strong>",
 			"terrname15": "창고",
 			"terrdesc15": "자산 조달 <strong>+1d</strong>"
-		}
-	]
+    }
+  }
 }

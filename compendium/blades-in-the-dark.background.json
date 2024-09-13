@@ -1,36 +1,36 @@
 {
-    "label": "배경",
-    "mapping": {
-        "description": "system.description"
+  "label": "배경",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Academic": {
+      "name": "학계",
+			"description": "학자, 도스크볼 학원의 교수나 학생, 철학자, 기자 등."
     },
-
-    "entries": [
-        { "id": "Academic",
-	"name": "학계",
-	"description": "학자, 도스크볼 학원의 교수나 학생, 철학자, 기자 등" },
-	
-	{ "id": "Labor",
-	"name": "노동",
-	"description": "하인, 공장 노동자, 수레몰이, 부두 노동자, 선원, 철도원 등. 북갈고리곶 상회의 집꾼." },
-
-	{ "id": "Law",
-	"name": "법률",
-	"description": "변호사, 푸른코트, 형사 (어쩌면 감령관), 쇠갈고리 감옥의 간수 등." },
-
-	{ "id": "Military",
-	"name": "군대",
-	"description": "제국이나 스코블란 군인, 용병, 첩보원, 전략가, 훈련 교관 등." },
-
-	{ "id": "Noble",
-	"name": "귀족",
-	"description": "궁정 귀족, 한량, 몰락한 가문의 후계자 등." },
-
-	{ "id": "Trade",
-	"name": "상공업",
-	"description": "가게 주인, 상인, 숙련공, 운수업자 등. 보전청의 사무원." },
-
-	{ "id": "Underworld",
-	"name": "범죄계",
-	"description": "길거리 아이, 조직원, 젊은 깡패, 거리에서 자란 그 외 무법자." }
-    ]
+    "Labor": {
+      "name": "노동",
+			"description": "하인, 공장 노동자, 수레몰이, 부두 노동자, 선원, 철도원 등. 북갈고리곶 상회의 집꾼."
+    },
+    "Law": {
+      "name": "법률",
+			"description": "변호사, 푸른코트, 형사 (어쩌면 감령관), 쇠갈고리 감옥의 간수 등." 
+    },
+    "Military": {
+      "name": "군대",
+			"description": "제국이나 스코블란 군인, 용병, 첩보원, 전략가, 훈련 교관 등."
+    },
+    "Noble": {
+      "name": "귀족",
+			"description": "궁정 귀족, 한량, 몰락한 가문의 후계자 등."
+    },
+    "Trade": {
+      "name": "상공업",
+			"description": "가게 주인, 상인, 숙련공, 운수업자 등. 보전청의 사무원."
+    },
+    "Underworld": {
+      "name": "범죄계",
+			"description": "길거리 아이, 조직원, 젊은 깡패, 거리에서 자란 그 외 무법자."
+    }
+  }
 }
