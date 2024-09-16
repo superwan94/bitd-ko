@@ -7,7 +7,7 @@
   "entries": {
     "Cutter": {
       "name": "칼잡이",
-			"description" : "위험하고 압도적인 싸움꾼",
+      "description" : "위험하고 압도적인 싸움꾼",
 			"experience_clues": "난관에 위압이나 폭력으로 임한 경우."
     },
     "Ghost": {
@@ -47,8 +47,8 @@
     },
     "Vampire": {
       "name": "뱀파이어",
-			"description" : "언데드 몸을 움직이는 영",
-			"experience_clues": "자기의 우월함을 드러내거나 무자비하게 살해하는 경우."
+		  "description" : "언데드 몸을 움직이는 영",
+		  "experience_clues": "자기의 우월함을 드러내거나 무자비하게 살해하는 경우."
     },
     "Whisper": {
       "name": "유령사",
