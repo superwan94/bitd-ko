@@ -1,44 +1,36 @@
 {
-	"label": "악습",
-"mapping": {
-        "description": "system.description"
- 	   },
-
-	"entries": [
-		{
-			"id": "Faith",
-			"name": "신앙",
+  "label": "악습",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Faith": {
+      "name": "신앙",
 			"description":"- <strong>나리아 수녀</strong>, 흐느끼는 여인의 집, 식스타워즈.<br/>- <strong>일라실</strong>, 잊힌 신들의 사원 폐허, 콜릿지.<br/>- <strong>넬리산느</strong>, 육신의 희열 교회, 브라이트스톤.<br/>- <strong>펜데린 공</strong>, 메아리의 기록원, 차터홀."
 		},
-		{
-			"id": "Gambling",
-			"name": "도박",
+    "Gambling": {
+      "name": "도박",
 			"description":"- <strong>스포그의 주사위판</strong>, 크로우스풋.<br/>- <strong>그리스트</strong>, 복싱, 부두.<br/>- <strong>헬레네</strong>, 은사슴 카지노, 실크쇼어.<br/>- <strong>브린 선생</strong>, 개 경주, 나이트마켓.<br/>- <strong>더스크 대부인</strong, 더스크 저택 클럽, 화이트크라운.<br/>- <strong>벨크 상사</strong>, 투기장, 던슬로."
 		},
-		{
-			"id": "Luxury",
-			"name": "사치",
+    "Luxury": {
+      "name": "사치",
 			"description":"- <strong>싱어</strong>, 목욕탕, 크로우스풋.<br/>- <strong>하베일 브로건</strong>, 센투랄리아 클럽, 브라이트스톤.<br/>- <strong>트라벤의 담배가게</strong>, 콜릿지.<br/>- <strong>던드리지와 아들들</strong>, 고급 옷감과 재봉, 나이트마켓.<br/>- <strong>로젤 주방장</strong>, 황금자두 레스토랑, 식스타워즈.<br/>- <strong>마에스트로 핼러렌</strong>, 스파이어가든 극장, 화이트크라운."
 		},
-		{
-			"id": "Obligation",
-			"name": "의무",
+    "Obligation": {
+      "name": "의무",
 			"description":"- 가족 (혈통) 또는 옛 동료들 (출신)<br/>- <strong>허튼</strong>, 스코블란 난민들/혁명가들, 차홀로우.<br/>- <strong>불꽃고리회</strong>, 비밀결사."
 		},
-		{
-			"id": "Pleasure",
-			"name": "쾌락",
+    "Pleasure": {
+      "name": "쾌락",
 			"description":"- <strong>싱어</strong>, 목욕탕, 크로우스풋.<br/>- <strong>하베일 브로건</strong>, 센투랄리아 클럽, 브라이트스톤.<br/>- <strong>트라벤의 담배가게</strong>, 콜릿지.<br/>- <strong>던드리지와 아들들</strong>, 고급 옷감과 재봉, 나이트마켓.<br/>- <strong>로젤 주방장</strong>, 황금자두 레스토랑, 식스타워즈.<br/>- <strong>마에스트로 핼러렌</strong>, 스파이어가든 극장, 화이트크라운."
 		},
-		{
-			"id": "Stupor",
-			"name": "쾌락, 망각",
+    "Stupor": {
+      "name": "쾌락, 망각",
 			"description":"- <strong>마딘 걸</strong>, 새는 양동이, 술집, 크로우스풋<br/>- <strong>퍽스 볼린</strong>, 하프 타는 원숭이, 술집, 나이트마켓.<br/>- <strong>헬레네</strong>, 은사슴 카지노, 실크쇼어.<br/>- <strong>프레일라</strong> 대부인, 황제의 술통, 고급바, 화이트크라운.<br/>- <strong>아브릭</strong>, 가루 상인, 배로클레프트.<br/>- <strong>마담 테슬린</strong>, 붉은램프, 매춘굴, 실크쇼어.<br/>- <strong>트라벤의 담배가게</strong>, 콜릿지.<br/>- <strong>엘드린 프리차드</strong>, 호화 유람선 은백조호, 브라이트스톤 운하.<br/>- <strong>보석과 새와 미소</strong>, 캣크롤 골목, 부두."
 		},
-		{
-			"id": "Weird",
-			"name": "기괴",
+    "Weird": {
+      "name": "기괴",
 			"description":"- 후드 쓴 주인이 운영하는 부두 근처의 반쯤 침수된 동굴 술집. 이상한 통로와 이상한 방들이 얽혀 있습니다.<br/>- <strong>요렌 신부</strong>, 흐느끼는 여인의 집, 식스타워즈.<br/>- <strong>화해자 “살리아”</strong>, 기분 따라 몸에서 몸으로 옮겨 다닙니다.<br/>- <strong>쏜 자매</strong>, 죽음의 땅 넝마주이들, 가독역.<br/>- <strong>오자크</strong>, 지붕에 가게를 차린 티케로스 상인, 실크쇼어.<br/>- <strong>복자 아란나</strong>, 어느 잊힌 신의 사도, 나이트마켓 운하에 정박한 배에 삽니다."
 		}
-	]
+  }
 }

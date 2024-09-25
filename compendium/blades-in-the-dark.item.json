@@ -1,316 +1,257 @@
 {
-	"label": "장비",
-	"mapping": {
-        "description": "system.description",
-	"class":"system.class"
-	
-    },
-	"entries": [
-		{
-			"id": "(C) Fine hand weapon",
-			"name": "(칼잡이) 고급 소형 무기",
+  "label": "장비",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class"
+  },
+  "entries": {
+    "(C) Fine hand weapon": {
+      "name": "(칼잡이) 고급 소형 무기",
 			"description": "잘 만든 한손 근접 무기입니다.",
 			"class": "칼잡이"
 		},
-		{
-			"id": "(C) Fine heavy weapon",
-			"name": "(칼잡이) 고급 대형 무기",
+    "(C) Fine heavy weapon": {
+      "name": "(칼잡이) 고급 대형 무기",
 			"description": "잘 만든 양손 근접 무기입니다. 대형 무기는 더 길고 타격력도 강합니다.",
 			"class": "칼잡이"
 		},
-		{
-			"id": "(C) Manacles & chain",
-			"name": "(칼잡이) 족쇄와 쇠사슬",
+    "(C) Manacles & chain": {
+      "name": "(칼잡이) 족쇄와 쇠사슬",
 			"description": "죄수가 찰 만한 묵직한 족쇄나 수갑과 쇠사슬입니다.",
 			"class": "칼잡이"
 		},
-		{
-			"id": "(C) Rage essence vial",
-			"name": "(칼잡이) 분노 에센스 한 병",
+    "(C) Rage essence vial": {
+      "name": "(칼잡이) 분노 에센스 한 병",
 			"description": "1회용. 몇 분간 근력, 고통 저항력, 비이성적 호전성을 강화합니다.<br/>동시에 “피아를 구별 못함” “적들이 전부 패배할 때까지 멈추지 않음”의 두 가지 대가를 받습니다. 각기 통상적으로 저항할 수 있습니다.",
 			"class": "칼잡이"
 		},
-		{
-			"id": "(C) Scary weapon or tool",
-			"name": "(칼잡이) 무시무시한 무기나 도구",
+    "(C) Scary weapon or tool": {
+      "name": "(칼잡이) 무시무시한 무기나 도구",
 			"description": "무섭게 생긴 소형 무기나 도구. 전투에서 피해를 더 주지는 않지만, 위협할 때는 효과가 증가합니다.",
 			"class": "칼잡이"
 		},
-		{
-			"id": "(H) A trained hunting pet",
-			"name": "(사냥개) 훈련된 사냥용 동물",
+    "(H) A trained hunting pet": {
+      "name": "(사냥개) 훈련된 사냥용 동물",
 			"description": "주인의 명령에 따를 뿐만아니라 그 행동마저 예측하는 동물 친구입니다. 부하 (전문가: 사냥꾼).",
 			"class": "사냥개"
 		},
-		{
-			"id": "(H) Electroplasmic ammunition",
-			"name": "(사냥개) 엘렉트로플라즘 탄약",
+    "(H) Electroplasmic ammunition": {
+      "name": "(사냥개) 엘렉트로플라즘 탄약",
 			"description": "유령에게 큰 위력을 발휘하지만 실체가 있는 목표에는 덜 효과적인 엘렉트로플라즘 탄약이 있습니다 (탄띠 하나 분량). 이 탄양이 발하는 전기는 사람에게 쇼크를 줄 수는 있지만 실제 피해는 거의 없습니다. 인간을 기절시키려면 몇 발을 명중시켜야 합니다. 이 탄약은 유령장과 아주 민감하게 반응합니다. 4칸짜리 “감령관들의 시선” 시계를 만들고, 이 탄약이 사용된 작전마다 칸을 채우세요.",
 			"class": "사냥개"
 		},
-		{
-			"id": "(H) Fine long rifle",
-			"name": "(사냥개) 고급 라이플",
+    "(H) Fine long rifle": {
+      "name": "(사냥개) 고급 라이플",
 			"description": "잘 만든 사냥총. 장거리에서 매우 정확하고 근거리에서는 거추장스럽습니다. 도스크볼에서 라이플은 보통 시민의 소지가 불법이지만, 당신은 군대가 발급한 소지 면허가 있습니다 (진짜? 위조?).",
 			"class": "사냥개"
 		},
-		{
-			"id": "(H) Fine pair of pistols",
-			"name": "(사냥개) 고급 권총 한 쌍",
+    "(H) Fine pair of pistols": {
+      "name": "(사냥개) 고급 권총 한 쌍",
 			"description": "짝이 맞는 권총 한 쌍. 정확도가 높고, 각각 총열이 2개라 한 번 장전하면 두 발씩 쏠 수 있습니다.",
 			"class": "사냥개"
 		},
-		{
-			"id": "(H) Spyglass",
-			"name": "(사냥개) 망원경",
+    "(H) Spyglass": {
+      "name": "(사냥개) 망원경",
 			"description": "놋쇠 금속통에 렌즈를 달아 멀리 보게 해 주는 물건. 접이식입니다. 라이플에 장착할 수도 있습니다.",
 			"class": "사냥개"
 		},
-		{
-			"id": "(Le) Bandolier",
-			"name": "(거머리) 도구띠",
+    "(Le) Bandolier": {
+      "name": "(거머리) 도구띠",
 			"description": "몸에 대각선으로 겹치는 띠. 특수 패딩 주머니가 있어 스파크 기술 폭탄과 연금물을 합계 셋까지 넣을 수 있습니다. 도구띠에서 실제로 뽑아 쓸 때 연금물 목록 (또는 자기 고유의 제법)에서 하나를 고르면 됩니다. 공방이나 공급자를 이용 못할 상황만 아니면 막간에 자동으로 도구띠가 채워집니다.",
 			"class": "거머리"
 		},
-		{
-			"id": "(Le) Blowgun & darts, syringes",
-			"name": "(거머리) 바람총과 바늘, 주사기",
+    "(Le) Blowgun & darts, syringes": {
+      "name": "(거머리) 바람총과 바늘, 주사기",
 			"description": "연금물을 넣는 작은 튜브와 바늘. 빈 주사기.",
 			"class": "거머리"
 		},
-		{
-			"id": "(Le) Fine tinkering tools",
-			"name": "(거머리) 고급 땜질 공구",
+    "(Le) Fine tinkering tools": {
+      "name": "(거머리) 고급 땜질 공구",
 			"description": "잘 만든 기계공의 도구 한 벌입니다. 보석세공사의 루페, 측정 도구 등.",
 			"class": "거머리"
 		},
-		{
-			"id": "(Le) Fine wrecking tools",
-			"name": "(거머리) 고급 파괴 공구",
+    "(Le) Fine wrecking tools": {
+      "name": "(거머리) 고급 파괴 공구",
 			"description": "파괴에 사용하는 전문 공구들입니다. 강력한 소형 드릴. 망치와 강철못. 쇠지레. 엘렉트로플라즘 배터리, 클램프, 전선. 산이 든 병. 절단 토치와 연료 탱크.",
 			"class": "거머리"
 		},
-		{
-			"id": "(Le) Gadgets",
-			"name": "(거머리) 장치",
+    "(Le) Gadgets": {
+      "name": "(거머리) 장치",
 			"description": "도구와 재료로 땜질을 하면 장치를 만들 수 있습니다. 하중은 작전에 가지고 가는 장치 하나마다 따집니다.",
 			"class": "거머리"
 		},
-		{
-			"id": "(Lu) Dark-sight goggles",
-			"name": "(족제비) 야시 고글",
+    "(Lu) Dark-sight goggles": {
+      "name": "(족제비) 야시 고글",
 			"description": "빛이 전혀 없어도 대낮처럼 볼 수 있게 해 주는 마도 장치.",
 			"class": "족제비"
 		},
-		{
-			"id": "(Lu) Fine lockpicks",
-			"name": "(족제비) 고급 곁쇠",
+    "(Lu) Fine lockpicks": {
+      "name": "(족제비) 고급 곁쇠",
 			"description": "자물쇠를 딸 때 사용하는 잘 만든 도구입니다.",
 			"class": "족제비"
 		},
-		{
-			"id": "(Lu) Fine shadow cloak",
-			"name": "(족제비) 고급 그림자 망토",
+    "(Lu) Fine shadow cloak": {
+      "name": "(족제비) 고급 그림자 망토",
 			"description": "귀한 이루비아 그림자 비단으로 만들어 주변의 어둠처럼 색이 변하는 후드 달린 망토. 두르고 있으면 몰래 다닐 때 효과 단계가 높아집니다.",
 			"class": "족제비"
 		},
-		{
-			"id": "(Lu) Light climbing gear",
-			"name": "(족제비) 경량 등반 장비",
+    "(Lu) Light climbing gear": {
+      "name": "(족제비) 경량 등반 장비",
 			"description": "표준 등반 장비보다 더 작고 가벼운 특제 등반 장비.",
 			"class": "족제비"
 		},
-		{
-			"id": "(Lu) Silence potion vial",
-			"name": "(족제비) 침묵의 물약",
+    "(Lu) Silence potion vial": {
+      "name": "(족제비) 침묵의 물약",
 			"description": "금색 액체가 든 병. 마신 사람으로부터 10발짝 내의 모든 소리가 없어집니다.",
 			"class": "족제비"
 		},
-		{
-			"id": "(Sl) A cane-sword",
-			"name": "(할리퀸) 지팡이칼",
+    "(Sl) A cane-sword": {
+      "name": "(할리퀸) 지팡이칼",
 			"description": "귀족의 지팡이로 위장한 검과 칼집. 그냥 봐서는 무기임을 알아챌 수 없습니다.",
 			"class": "할리퀸"
 		},
-		{
-			"id": "(Sl) Fine clothes & jewelry",
-			"name": "(할리퀸) 고급 옷과 장신구",
+    "(Sl) Fine clothes & jewelry": {
+      "name": "(할리퀸) 고급 옷과 장신구",
 			"description": "부유한 귀족으로 보일 정도로 고급스러운 옷. ",
 			"class": "할리퀸"
 		},
-		{
-			"id": "(Sl) Fine disguise kit",
-			"name": "(할리퀸) 고급 변장 도구",
+    "(Sl) Fine disguise kit": {
+      "name": "(할리퀸) 고급 변장 도구",
 			"description": "전문적인 도구와 재료가 잔뜩 갖추어진 극장용 분장 세트. 고급이기 때문에 속임수의 효과 단계가 높아질 수 있습니다.",
 			"class": "할리퀸"
 		},
-		{
-			"id": "(Sl) Fine loaded dice, trick cards",
-			"name": "(할리퀸) 고급 속임수 주사위, 사기 카드",
+    "(Sl) Fine loaded dice, trick cards": {
+      "name": "(할리퀸) 고급 속임수 주사위, 사기 카드",
 			"description": "특정한 결과가 잘 나오도록 은근하게 조작된 도박용품들. 고급이기 때문에 속임수의 효과 단계가 높아질 수 있습니다.",
 			"class": "할리퀸"
 		},
-		{
-			"id": "(Sl) Trance powder",
-			"name": "(할리퀸) 최면 가루",
+    "(Sl) Trance powder": {
+      "name": "(할리퀸) 최면 가루",
 			"description": "정신 상태에 이상을 일으키는 인기 약품 1회분. 이 가루에 당한 사람은 의식이 아예 없지는 않지만, 최면에 걸린 것처럼 차분하고 암시에 약한 상태가 됩니다.",
 			"class": "할리퀸"
 		},
-		{
-			"id": "(Sp) Blueprints",
-			"name": "(거미) 도면들",
+    "(Sp) Blueprints": {
+      "name": "(거미) 도면들",
 			"description": "유용한 건축 및 토목 도면들의 모음입니다. 이 물품을 소지품으로 선택할 때는 어떤 도면을 갖고 있는지 명시해도 좋습니다.",
 			"class": "거미"
 		},
-		{
-			"id": "(Sp) Concealed palm pistol",
-			"name": "(거미) 소형 은닉 권총",
+    "(Sp) Concealed palm pistol": {
+      "name": "(거미) 소형 은닉 권총",
 			"description": "조끼나 소매에 쉽게 감출 수 있는 약한 소형 화기. 이 권총은 사거리가 1m 남짓밖에 되지 않습니다. 대신 수색을 당해도 들킬 가능성이 아주 낮습니다.",
 			"class": "거미"
 		},
-		{
-			"id": "(Sp) Fine bottle of whiskey",
-			"name": "(거미) 고급 위스키 한 병",
+    "(Sp) Fine bottle of whiskey": {
+      "name": "(거미) 고급 위스키 한 병",
 			"description": "희귀한 술. 알코올 함량도, 남에게 주는 인상도 위력적입니다.",
 			"class": "거미"
 		},
-		{
-			"id": "(Sp) Fine cover identity",
-			"name": "(거미) 고급 위장 신분",
+    "(Sp) Fine cover identity": {
+      "name": "(거미) 고급 위장 신분",
 			"description": "다른 사람 시즁을 하는 데 충분한 서류, 일부러 심은 소문, 가짜 인간 관계.",
 			"class": "거미"
 		},
-		{
-			"id": "(Sp) Vial of slumber essence",
-			"name": "(거미) 수면 에센스 한 병",
+    "(Sp) Vial of slumber essence": {
+      "name": "(거미) 수면 에센스 한 병",
 			"description": "사람을 1시간 재우기에 충분한 수면 에센스 1회분. 초자연적이지는 않지만 깊은 잠입니다. 좀 애쓰면 깨울 수 있습니다.",
 			"class": "거미"
 		},
-		{
-			"id": "(W) Demonbane charm",
-			"name": "(유령사) 퇴마의 부적",
+    "(W) Demonbane charm": {
+      "name": "(유령사) 퇴마의 부적",
 			"description": "악마들이 웬만하면 피하려 드는 작은 마도 물품.",
 			"class": "유령사"
 		},
-		{
-			"id": "(W) Electroplasm vials",
-			"name": "(유령사) 엘렉트로플라즘 몇 병",
+    "(W) Electroplasm vials": {
+      "name": "(유령사) 엘렉트로플라즘 몇 병",
 			"description": "던지면 깨져서 엘렉트로플라즘이 튑니다.",
 			"class": "유령사"
 		},
-		{
-			"id": "(W) Fine lightning hook",
-			"name": "(유령사) 고급 번개 갈고리",
+    "(W) Fine lightning hook": {
+      "name": "(유령사) 고급 번개 갈고리",
 			"description": "양손으로 잡는 긴 막대. 엘렉트로플라즘 축전기에 연결된 철사 고리가 끝에 붙어 있습니다. 영을 붙잡아서 유령병에 집어넣는 데 유용합니다. 이 갈고리는 휴대하기 좋은 특제 접이식이라, 양손용임에도 불구하고 하중은 1입니다.",
 			"class": "유령사"
 		},
-		{
-			"id": "(W) Fine spirit mask",
-			"name": "(유령사) 고급 영 가면",
+    "(W) Fine spirit mask": {
+      "name": "(유령사) 고급 영 가면",
 			"description": "사용법을 알면 초자연적 에너지를 더 잘 볼 수 있게 되는 마도 물품. 유령의 빙의에 약간의 저항력도 제공합니다.",
 			"class": "유령사"
 		},
-		{
-			"id": "(W) Ghost key",
-			"name": "(유령사) 유령 열쇠",
+    "(W) Ghost key": {
+      "name": "(유령사) 유령 열쇠",
 			"description": "유령 문을 열 수 있는 마도 장치. 유령장에는 도시의 역사 전체가 메아리로서 갇혀 있습니다. 때로는 그리로 가는 문도 찾을 수 있습니다.",
 			"class": "유령사"
 		},
-		{
-			"id": "(W) Spirit bottles (2)",
-			"name": "(유령사) 유령병 (2개)",
+    "(W) Spirit bottles (2)": {
+      "name": "(유령사) 유령병 (2개)",
 			"description": "영을 잡아 넣을 수 있는 마도 장치. 금속과 수정으로 된 원통이며, 크기는 식빵 한 덩어리 정도입니다.",
 			"class": "유령사"
 		},
-		{
-			"id": "+ Heavy",
-			"name": "+ 중갑",
+    "+ Heavy": {
+      "name": "+ 중갑",
 			"description": "갑옷에 메일, 금속판, 금속 투구를 추가한 것. 중갑의 하중은 보통 갑옷의 하중에 <strong>추가됩니다</strong>."
 		},
-		{
-			"id": "A 2nd Pistol",
-			"name": "추가 권총",
+    "A 2nd Pistol": {
+      "name": "추가 권총",
 			"description": "묵직한 후미장전식 단발 총기. 20보까지는 아주 강력합니다. 재장전이 느립니다."
 		},
-		{
-			"id": "A Blade or Two",
-			"name": "칼 한두 자루",
+    "A Blade or Two": {
+      "name": "칼 한두 자루",
 			"description": "간단한 전투용 단도 한 자루. 또는 곡도 한 쌍. 레이피어와 스틸레토. 큼지막한 푸줏간 고기칼."
 		},
-		{
-			"id": "A Large Weapon",
-			"name": "대형 무기",
+    "A Large Weapon": {
+      "name": "대형 무기",
 			"description": "양손으로 쓰는 무기. 전투도끼, 그레이트소드, 워해머, 장병기. 사냥용 라이플. 나팔총. 활. 쇠뇌."
 		},
-		{
-			"id": "A Pistol",
-			"name": "권총",
+    "A Pistol": {
+      "name": "권총",
 			"description": "묵직한 후미장전식 단발 총기. 20보까지는 아주 강력합니다. 재장전이 느립니다."
 		},
-		{
-			"id": "An Unusual Weapon",
-			"name": "특이한 무기",
+    "An Unusual Weapon": {
+      "name": "특이한 무기",
 			"description": " 도구나 기타 물품을 무기로 전용한 것. 채찍, 도리깨, 손도끼, 삽, 쇠사슬, 금속 부채, 앞쪽에 쇠를 댄 장화 등. "
 		},
-		{
-			"id": "Arcane Implements",
-			"name": "마도 용품",
+    "Arcane Implements": {
+      "name": "마도 용품",
 			"description": "수은 한 병. 검은 소금 한 주머니. 작은 돌 형태의 유령닻. 유령병. 던지면 깨져서 튀게 만들어진 엘렉트로플라즘 1병."
 		},
-		{
-			"id": "Armor",
-			"name": "갑옷",
+    "Armor": {
+      "name": "갑옷",
 			"description": "두꺼운 가죽 상의와 튼튼한 장갑, 장화."
 		},
-		{
-			"id": "Burglary Gear",
-			"name": "도둑질 장비",
+    "Burglary Gear": {
+      "name": "도둑질 장비",
 			"description": "곁쇠 한 세트. 작은 쇠지레. 삐걱거리는 경첩에 바를 기름이 든 병. 철사 타래와 낚싯바늘. 고운 모래가 든 작은 주머니 하나."
 		},
-		{
-			"id": "Climbing Gear",
-			"name": "등반 장비",
+    "Climbing Gear": {
+      "name": "등반 장비",
 			"description": "밧줄 작은 타래 하나. 밧줄 큰 타래 하나. 갈고리. 백묵 가루가 든 작은 주머니 하나. 쇠고리가 붙은 등반용 멜빵. 금속 피톤 한 묶음과 작은 망치."
 		},
-		{
-			"id": "Demolition Tools",
-			"name": "파괴 공구",
+    "Demolition Tools": {
+      "name": "파괴 공구",
 			"description": "망치와 무쇠 스파이크. 대형 드릴. 쇠지레."
 		},
-		{
-			"id": "Documents",
-			"name": "문서",
+    "Documents": {
+      "name": "문서",
 			"description": "다양한 주제에 관한 얇은 책들 (귀족이나 시 경비대 지휘관 등 주요 시민 목록 포함). 백지, 잉크병, 펜. 흥미로운 지도들 몇 장."
 		},
-		{
-			"id": "Electroplasm vials",
-			"name": "엘렉트로플라즘 몇 병",
-			"description": "던지면 깨져서 엘렉트로플라즘이 튑니다."
-		},
-		{
-			"id": "Lantern",
-			"name": "랜턴",
+    "Lantern": {
+      "name": "랜턴",
 			"description": "평범한 기름 랜턴, 멋진 엘렉트로플라즘 램프, 그 외 광원."
 		},
-		{
-			"id": "Spiritbane Charm",
-			"name": "퇴령의 부적",
+    "Spiritbane Charm": {
+      "name": "퇴령의 부적",
 			"description": "유령들이 웬만하면 피하려드는 소형 마도 물품."
 		},
-		{
-			"id": "Subterfuge Supplies",
-			"name": "기만술 물자",
+    "Subterfuge Supplies": {
+      "name": "기만술 물자",
 			"description": "극장용 분장 도구. 위조사가 바로 작업할 수 있는 빈 문서 양식들. 모조 장신구. 양면 망토와 눈에 띄는 독특한 모자. 위조 공직 배지."
 		},
-		{
-			"id": "Throwing Knives",
-			"name": "투척용 단도",
+    "Throwing Knives": {
+      "name": "투척용 단도",
 			"description": "작고 가벼워 던지기 좋은 칼 6자루."
 		},
-		{
-			"id": "Tinkering Tools",
-			"name": "땜질 공구",
+    "Tinkering Tools": {
+      "name": "땜질 공구",
 			"description": "기계공의 도구 한 벌입니다. 보석세공사의 루페, 핀셋, 작은 망치, 플라이어, 드라이버 등."
 		}
-	]
+  }
 }
